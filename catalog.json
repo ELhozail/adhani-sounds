@@ -7,9 +7,9 @@
    "hint": "أذان كامل",
    "seconds": 217,
    "fajr": false,
-   "full": "part1/adam-abu-sakhra.m4a",
+   "full": "adam-abu-sakhra.m4a",
    "fullBytes": 1784524,
-   "ios": "part1/adam-abu-sakhra-30.caf",
+   "ios": "adam-abu-sakhra-30.caf",
    "iosBytes": 351801
   },
   {
@@ -18,9 +18,9 @@
    "hint": "أذان كامل",
    "seconds": 154,
    "fajr": false,
-   "full": "part1/ibraheem-al-jumayle.m4a",
+   "full": "ibraheem-al-jumayle.m4a",
    "fullBytes": 1268544,
-   "ios": "part1/ibraheem-al-jumayle-30.caf",
+   "ios": "ibraheem-al-jumayle-30.caf",
    "iosBytes": 351794
   },
   {
@@ -29,9 +29,9 @@
    "hint": "أذان كامل",
    "seconds": 212,
    "fajr": false,
-   "full": "part1/ibraheem-jabar-1.m4a",
+   "full": "ibraheem-jabar-1.m4a",
    "fullBytes": 1748077,
-   "ios": "part1/ibraheem-jabar-1-30.caf",
+   "ios": "ibraheem-jabar-1-30.caf",
    "iosBytes": 351554
   },
   {
@@ -40,9 +40,9 @@
    "hint": "أذان كامل",
    "seconds": 219,
    "fajr": false,
-   "full": "part1/ibraheem-jabar-2.m4a",
+   "full": "ibraheem-jabar-2.m4a",
    "fullBytes": 1794584,
-   "ios": "part1/ibraheem-jabar-2-30.caf",
+   "ios": "ibraheem-jabar-2-30.caf",
    "iosBytes": 351778
   },
   {
@@ -51,9 +51,9 @@
    "hint": "أذان كامل",
    "seconds": 294,
    "fajr": false,
-   "full": "part1/ibraheem-jabr-abu-raheq.m4a",
+   "full": "ibraheem-jabr-abu-raheq.m4a",
    "fullBytes": 2423292,
-   "ios": "part1/ibraheem-jabr-abu-raheq-30.caf",
+   "ios": "ibraheem-jabr-abu-raheq-30.caf",
    "iosBytes": 351837
   },
   {
@@ -62,9 +62,9 @@
    "hint": "أذان الفجر · الفجر",
    "seconds": 292,
    "fajr": true,
-   "full": "part1/ibraheem-jabr-abu-raheq-fajr.m4a",
+   "full": "ibraheem-jabr-abu-raheq-fajr.m4a",
    "fullBytes": 2407248,
-   "ios": "part1/ibraheem-jabr-abu-raheq-fajr-30.caf",
+   "ios": "ibraheem-jabr-abu-raheq-fajr-30.caf",
    "iosBytes": 351835
   },
   {
@@ -73,9 +73,9 @@
    "hint": "القاهرة",
    "seconds": 237,
    "fajr": false,
-   "full": "part1/abul-ainain-shuaisha-cairo.m4a",
+   "full": "abul-ainain-shuaisha-cairo.m4a",
    "fullBytes": 1922798,
-   "ios": "part1/abul-ainain-shuaisha-cairo-30.caf",
+   "ios": "abul-ainain-shuaisha-cairo-30.caf",
    "iosBytes": 351793
   },
   {
@@ -84,9 +84,9 @@
    "hint": "أذان كامل",
    "seconds": 133,
    "fajr": false,
-   "full": "part1/aby-yasser-al-jazaire.m4a",
+   "full": "aby-yasser-al-jazaire.m4a",
    "fullBytes": 1093535,
-   "ios": "part1/aby-yasser-al-jazaire-30.caf",
+   "ios": "aby-yasser-al-jazaire-30.caf",
    "iosBytes": 351820
   },
   {
@@ -95,9 +95,9 @@
    "hint": "أذان كامل",
    "seconds": 213,
    "fajr": false,
-   "full": "part1/ihssan-hamed-al-dulayme.m4a",
+   "full": "ihssan-hamed-al-dulayme.m4a",
    "fullBytes": 1755533,
-   "ios": "part1/ihssan-hamed-al-dulayme-30.caf",
+   "ios": "ihssan-hamed-al-dulayme-30.caf",
    "iosBytes": 351882
   },
   {
@@ -106,9 +106,9 @@
    "hint": "أذان كامل",
    "seconds": 238,
    "fajr": false,
-   "full": "part1/ahmad-al-batal.m4a",
+   "full": "ahmad-al-batal.m4a",
    "fullBytes": 1964097,
-   "ios": "part1/ahmad-al-batal-30.caf",
+   "ios": "ahmad-al-batal-30.caf",
    "iosBytes": 351784
   },
   {
@@ -117,9 +117,9 @@
    "hint": "أذان كامل",
    "seconds": 155,
    "fajr": false,
-   "full": "part1/ahmed-al-haddad.m4a",
+   "full": "ahmed-al-haddad.m4a",
    "fullBytes": 1270263,
-   "ios": "part1/ahmed-al-haddad-30.caf",
+   "ios": "ahmed-al-haddad-30.caf",
    "iosBytes": 351780
   },
   {
@@ -128,9 +128,9 @@
    "hint": "أذان كامل",
    "seconds": 183,
    "fajr": false,
-   "full": "part1/ahmad-al-harasses.m4a",
+   "full": "ahmad-al-harasses.m4a",
    "fullBytes": 1410914,
-   "ios": "part1/ahmad-al-harasses-30.caf",
+   "ios": "ahmad-al-harasses-30.caf",
    "iosBytes": 352097
   },
   {
@@ -139,9 +139,9 @@
    "hint": "أذان الفجر · الكويت",
    "seconds": 230,
    "fajr": true,
-   "full": "part1/ahmd-at-trablsy-fajr-kuwait.m4a",
+   "full": "ahmd-at-trablsy-fajr-kuwait.m4a",
    "fullBytes": 1911679,
-   "ios": "part1/ahmd-at-trablsy-fajr-kuwait-30.caf",
+   "ios": "ahmd-at-trablsy-fajr-kuwait-30.caf",
    "iosBytes": 351870
   },
   {
@@ -150,9 +150,9 @@
    "hint": "أذان كامل",
    "seconds": 237,
    "fajr": false,
-   "full": "part1/ahmd-at-trablsy-1.m4a",
+   "full": "ahmd-at-trablsy-1.m4a",
    "fullBytes": 1957118,
-   "ios": "part1/ahmd-at-trablsy-1-30.caf",
+   "ios": "ahmd-at-trablsy-1-30.caf",
    "iosBytes": 351795
   },
   {
@@ -161,9 +161,9 @@
    "hint": "أذان كامل",
    "seconds": 243,
    "fajr": false,
-   "full": "part1/ahmd-at-trablsy-2.m4a",
+   "full": "ahmd-at-trablsy-2.m4a",
    "fullBytes": 1999305,
-   "ios": "part1/ahmd-at-trablsy-2-30.caf",
+   "ios": "ahmd-at-trablsy-2-30.caf",
    "iosBytes": 351837
   },
   {
@@ -172,9 +172,9 @@
    "hint": "أذان كامل",
    "seconds": 265,
    "fajr": false,
-   "full": "part1/ahmd-at-trablsy-3.m4a",
+   "full": "ahmd-at-trablsy-3.m4a",
    "fullBytes": 2178750,
-   "ios": "part1/ahmd-at-trablsy-3-30.caf",
+   "ios": "ahmd-at-trablsy-3-30.caf",
    "iosBytes": 351837
   },
   {
@@ -183,9 +183,9 @@
    "hint": "أذان كامل",
    "seconds": 257,
    "fajr": false,
-   "full": "part1/ahmd-at-trablsy-4.m4a",
+   "full": "ahmd-at-trablsy-4.m4a",
    "fullBytes": 2089359,
-   "ios": "part1/ahmd-at-trablsy-4-30.caf",
+   "ios": "ahmd-at-trablsy-4-30.caf",
    "iosBytes": 351837
   },
   {
@@ -194,9 +194,9 @@
    "hint": "أذان كامل",
    "seconds": 265,
    "fajr": false,
-   "full": "part1/ahmad-al-aane.m4a",
+   "full": "ahmad-al-aane.m4a",
    "fullBytes": 2175715,
-   "ios": "part1/ahmad-al-aane-30.caf",
+   "ios": "ahmad-al-aane-30.caf",
    "iosBytes": 351782
   },
   {
@@ -205,9 +205,9 @@
    "hint": "قطر",
    "seconds": 191,
    "fajr": false,
-   "full": "part1/ahmad-al-amade-1-qatar.m4a",
+   "full": "ahmad-al-amade-1-qatar.m4a",
    "fullBytes": 1577241,
-   "ios": "part1/ahmad-al-amade-1-qatar-30.caf",
+   "ios": "ahmad-al-amade-1-qatar-30.caf",
    "iosBytes": 351580
   },
   {
@@ -216,9 +216,9 @@
    "hint": "قطر",
    "seconds": 181,
    "fajr": false,
-   "full": "part1/ahmad-al-amade-2-qatar.m4a",
+   "full": "ahmad-al-amade-2-qatar.m4a",
    "fullBytes": 1490309,
-   "ios": "part1/ahmad-al-amade-2-qatar-30.caf",
+   "ios": "ahmad-al-amade-2-qatar-30.caf",
    "iosBytes": 352065
   },
   {
@@ -227,9 +227,9 @@
    "hint": "أذان كامل",
    "seconds": 198,
    "fajr": false,
-   "full": "part1/ahmed-el-kourdi.m4a",
+   "full": "ahmed-el-kourdi.m4a",
    "fullBytes": 1629570,
-   "ios": "part1/ahmed-el-kourdi-30.caf",
+   "ios": "ahmed-el-kourdi-30.caf",
    "iosBytes": 351836
   },
   {
@@ -238,9 +238,9 @@
    "hint": "أذان كامل",
    "seconds": 213,
    "fajr": false,
-   "full": "part1/ahmad-al-nafees.m4a",
+   "full": "ahmad-al-nafees.m4a",
    "fullBytes": 1735509,
-   "ios": "part1/ahmad-al-nafees-30.caf",
+   "ios": "ahmad-al-nafees-30.caf",
    "iosBytes": 351752
   },
   {
@@ -249,9 +249,9 @@
    "hint": "أذان كامل",
    "seconds": 179,
    "fajr": false,
-   "full": "part1/ahmad-aamer-muhammad.m4a",
+   "full": "ahmad-aamer-muhammad.m4a",
    "fullBytes": 1465897,
-   "ios": "part1/ahmad-aamer-muhammad-30.caf",
+   "ios": "ahmad-aamer-muhammad-30.caf",
    "iosBytes": 351783
   },
   {
@@ -260,9 +260,9 @@
    "hint": "أذان كامل",
    "seconds": 198,
    "fajr": false,
-   "full": "part1/ahmad-ali-1.m4a",
+   "full": "ahmad-ali-1.m4a",
    "fullBytes": 1631735,
-   "ios": "part1/ahmad-ali-1-30.caf",
+   "ios": "ahmad-ali-1-30.caf",
    "iosBytes": 351780
   },
   {
@@ -271,9 +271,9 @@
    "hint": "مصر",
    "seconds": 211,
    "fajr": false,
-   "full": "part1/ahmad-ali-2-egypt.m4a",
+   "full": "ahmad-ali-2-egypt.m4a",
    "fullBytes": 1733592,
-   "ios": "part1/ahmad-ali-2-egypt-30.caf",
+   "ios": "ahmad-ali-2-egypt-30.caf",
    "iosBytes": 351835
   },
   {
@@ -282,9 +282,9 @@
    "hint": "أذان كامل",
    "seconds": 188,
    "fajr": false,
-   "full": "part1/ahmad-ali-murtada.m4a",
+   "full": "ahmad-ali-murtada.m4a",
    "fullBytes": 1540723,
-   "ios": "part1/ahmad-ali-murtada-30.caf",
+   "ios": "ahmad-ali-murtada-30.caf",
    "iosBytes": 351791
   },
   {
@@ -293,9 +293,9 @@
    "hint": "قطر",
    "seconds": 156,
    "fajr": false,
-   "full": "part1/ahmad-fakhru-qatar.m4a",
+   "full": "ahmad-fakhru-qatar.m4a",
    "fullBytes": 1273920,
-   "ios": "part1/ahmad-fakhru-qatar-30.caf",
+   "ios": "ahmad-fakhru-qatar-30.caf",
    "iosBytes": 370125
   },
   {
@@ -304,9 +304,9 @@
    "hint": "مصر",
    "seconds": 205,
    "fajr": false,
-   "full": "part1/ahmed-nuinaa-1-egypt.m4a",
+   "full": "ahmed-nuinaa-1-egypt.m4a",
    "fullBytes": 1692837,
-   "ios": "part1/ahmed-nuinaa-1-egypt-30.caf",
+   "ios": "ahmed-nuinaa-1-egypt-30.caf",
    "iosBytes": 351589
   },
   {
@@ -315,9 +315,9 @@
    "hint": "القاهرة",
    "seconds": 210,
    "fajr": false,
-   "full": "part1/ahmed-nuinaa-2-cairo.m4a",
+   "full": "ahmed-nuinaa-2-cairo.m4a",
    "fullBytes": 1724036,
-   "ios": "part1/ahmed-nuinaa-2-cairo-30.caf",
+   "ios": "ahmed-nuinaa-2-cairo-30.caf",
    "iosBytes": 351786
   },
   {
@@ -326,9 +326,9 @@
    "hint": "أذان كامل",
    "seconds": 196,
    "fajr": false,
-   "full": "part1/ahmad-nawaf-al-mejlad-1.m4a",
+   "full": "ahmad-nawaf-al-mejlad-1.m4a",
    "fullBytes": 1624658,
-   "ios": "part1/ahmad-nawaf-al-mejlad-1-30.caf",
+   "ios": "ahmad-nawaf-al-mejlad-1-30.caf",
    "iosBytes": 351741
   },
   {
@@ -337,9 +337,9 @@
    "hint": "أذان الفجر · الفجر",
    "seconds": 222,
    "fajr": true,
-   "full": "part1/ahmad-nawaf-al-mejlad-2-fajr.m4a",
+   "full": "ahmad-nawaf-al-mejlad-2-fajr.m4a",
    "fullBytes": 1836003,
-   "ios": "part1/ahmad-nawaf-al-mejlad-2-fajr-30.caf",
+   "ios": "ahmad-nawaf-al-mejlad-2-fajr-30.caf",
    "iosBytes": 351764
   },
   {
@@ -348,9 +348,9 @@
    "hint": "أذان كامل",
    "seconds": 178,
    "fajr": false,
-   "full": "part1/akhdam-bnu-al-madane.m4a",
+   "full": "akhdam-bnu-al-madane.m4a",
    "fullBytes": 1474393,
-   "ios": "part1/akhdam-bnu-al-madane-30.caf",
+   "ios": "akhdam-bnu-al-madane-30.caf",
    "iosBytes": 351926
   },
   {
@@ -359,9 +359,9 @@
    "hint": "أذان كامل",
    "seconds": 154,
    "fajr": false,
-   "full": "part1/adham-al-sharqawe.m4a",
+   "full": "adham-al-sharqawe.m4a",
    "fullBytes": 1265928,
-   "ios": "part1/adham-al-sharqawe-30.caf",
+   "ios": "adham-al-sharqawe-30.caf",
    "iosBytes": 351815
   },
   {
@@ -370,9 +370,9 @@
    "hint": "المدينة المنورة",
    "seconds": 190,
    "fajr": false,
-   "full": "part1/adhan-al-haram-al-madani-al-madinah.m4a",
+   "full": "adhan-al-haram-al-madani-al-madinah.m4a",
    "fullBytes": 1560812,
-   "ios": "part1/adhan-al-haram-al-madani-al-madinah-30.caf",
+   "ios": "adhan-al-haram-al-madani-al-madinah-30.caf",
    "iosBytes": 351578
   },
   {
@@ -381,9 +381,9 @@
    "hint": "المدينة المنورة",
    "seconds": 236,
    "fajr": false,
-   "full": "part1/adhan-al-haram-al-madani-al-madinah-2.m4a",
+   "full": "adhan-al-haram-al-madani-al-madinah-2.m4a",
    "fullBytes": 1936511,
-   "ios": "part1/adhan-al-haram-al-madani-al-madinah-2-30.caf",
+   "ios": "adhan-al-haram-al-madani-al-madinah-2-30.caf",
    "iosBytes": 351946
   },
   {
@@ -392,9 +392,9 @@
    "hint": "أذان كامل",
    "seconds": 184,
    "fajr": false,
-   "full": "part1/adhan-riyadh-saudi-arabia.m4a",
+   "full": "adhan-riyadh-saudi-arabia.m4a",
    "fullBytes": 1500655,
-   "ios": "part1/adhan-riyadh-saudi-arabia-30.caf",
+   "ios": "adhan-riyadh-saudi-arabia-30.caf",
    "iosBytes": 351932
   },
   {
@@ -403,9 +403,9 @@
    "hint": "أذان الفجر",
    "seconds": 177,
    "fajr": true,
-   "full": "part1/adhan-fajr-algeria.m4a",
+   "full": "adhan-fajr-algeria.m4a",
    "fullBytes": 1455323,
-   "ios": "part1/adhan-fajr-algeria-30.caf",
+   "ios": "adhan-fajr-algeria-30.caf",
    "iosBytes": 351805
   },
   {
@@ -414,9 +414,9 @@
    "hint": "أذان الفجر",
    "seconds": 279,
    "fajr": true,
-   "full": "part1/adhan-fajr-al-haram-al-madani.m4a",
+   "full": "adhan-fajr-al-haram-al-madani.m4a",
    "fullBytes": 2301816,
-   "ios": "part1/adhan-fajr-al-haram-al-madani-30.caf",
+   "ios": "adhan-fajr-al-haram-al-madani-30.caf",
    "iosBytes": 351979
   },
   {
@@ -425,9 +425,9 @@
    "hint": "أذان الفجر",
    "seconds": 223,
    "fajr": true,
-   "full": "part1/adhan-fajr-al-haram-al-maki.m4a",
+   "full": "adhan-fajr-al-haram-al-maki.m4a",
    "fullBytes": 1829857,
-   "ios": "part1/adhan-fajr-al-haram-al-maki-30.caf",
+   "ios": "adhan-fajr-al-haram-al-maki-30.caf",
    "iosBytes": 351949
   },
   {
@@ -436,9 +436,9 @@
    "hint": "أذان الفجر",
    "seconds": 246,
    "fajr": true,
-   "full": "part1/adhan-fajr-cairo-egypt.m4a",
+   "full": "adhan-fajr-cairo-egypt.m4a",
    "fullBytes": 2013118,
-   "ios": "part1/adhan-fajr-cairo-egypt-30.caf",
+   "ios": "adhan-fajr-cairo-egypt-30.caf",
    "iosBytes": 351829
   },
   {
@@ -447,9 +447,9 @@
    "hint": "أذان الفجر",
    "seconds": 210,
    "fajr": true,
-   "full": "part1/adhan-fajr-kuwait-1.m4a",
+   "full": "adhan-fajr-kuwait-1.m4a",
    "fullBytes": 1724379,
-   "ios": "part1/adhan-fajr-kuwait-1-30.caf",
+   "ios": "adhan-fajr-kuwait-1-30.caf",
    "iosBytes": 351799
   },
   {
@@ -458,9 +458,9 @@
    "hint": "أذان الفجر",
    "seconds": 188,
    "fajr": true,
-   "full": "part1/adhan-fajr-kuwait-2.m4a",
+   "full": "adhan-fajr-kuwait-2.m4a",
    "fullBytes": 1553565,
-   "ios": "part1/adhan-fajr-kuwait-2-30.caf",
+   "ios": "adhan-fajr-kuwait-2-30.caf",
    "iosBytes": 351799
   },
   {
@@ -469,9 +469,9 @@
    "hint": "أذان الفجر",
    "seconds": 190,
    "fajr": true,
-   "full": "part1/adhan-fajr-umm-al-quwain.m4a",
+   "full": "adhan-fajr-umm-al-quwain.m4a",
    "fullBytes": 1565777,
-   "ios": "part1/adhan-fajr-umm-al-quwain-30.caf",
+   "ios": "adhan-fajr-umm-al-quwain-30.caf",
    "iosBytes": 351874
   },
   {
@@ -480,9 +480,9 @@
    "hint": "أذان الفجر",
    "seconds": 288,
    "fajr": true,
-   "full": "part1/fajr-adhan-by-nasreddine-toubar.m4a",
+   "full": "fajr-adhan-by-nasreddine-toubar.m4a",
    "fullBytes": 2375632,
-   "ios": "part1/fajr-adhan-by-nasreddine-toubar-30.caf",
+   "ios": "fajr-adhan-by-nasreddine-toubar-30.caf",
    "iosBytes": 351709
   },
   {
@@ -491,9 +491,9 @@
    "hint": "أذان كامل",
    "seconds": 142,
    "fajr": false,
-   "full": "part1/adhan-kuwait.m4a",
+   "full": "adhan-kuwait.m4a",
    "fullBytes": 1172342,
-   "ios": "part1/adhan-kuwait-30.caf",
+   "ios": "adhan-kuwait-30.caf",
    "iosBytes": 351766
   },
   {
@@ -502,9 +502,9 @@
    "hint": "القدس",
    "seconds": 152,
    "fajr": false,
-   "full": "part1/adhan-al-aqsa-jerusalem.m4a",
+   "full": "adhan-al-aqsa-jerusalem.m4a",
    "fullBytes": 1245141,
-   "ios": "part1/adhan-al-aqsa-jerusalem-30.caf",
+   "ios": "adhan-al-aqsa-jerusalem-30.caf",
    "iosBytes": 351883
   },
   {
@@ -513,9 +513,9 @@
    "hint": "أذان كامل",
    "seconds": 109,
    "fajr": false,
-   "full": "part1/adhan-india.m4a",
+   "full": "adhan-india.m4a",
    "fullBytes": 904240,
-   "ios": "part1/adhan-india-30.caf",
+   "ios": "adhan-india-30.caf",
    "iosBytes": 351760
   },
   {
@@ -524,9 +524,9 @@
    "hint": "أذان كامل",
    "seconds": 198,
    "fajr": false,
-   "full": "part1/adhan-indonesia.m4a",
+   "full": "adhan-indonesia.m4a",
    "fullBytes": 1628365,
-   "ios": "part1/adhan-indonesia-30.caf",
+   "ios": "adhan-indonesia-30.caf",
    "iosBytes": 351784
   },
   {
@@ -535,9 +535,9 @@
    "hint": "أذان كامل",
    "seconds": 183,
    "fajr": false,
-   "full": "part2/adhan-pakistan.m4a",
+   "full": "adhan-pakistan.m4a",
    "fullBytes": 1505222,
-   "ios": "part2/adhan-pakistan-30.caf",
+   "ios": "adhan-pakistan-30.caf",
    "iosBytes": 351772
   },
   {
@@ -546,9 +546,9 @@
    "hint": "أذان كامل",
    "seconds": 206,
    "fajr": false,
-   "full": "part2/adhan-brunei-1.m4a",
+   "full": "adhan-brunei-1.m4a",
    "fullBytes": 1699158,
-   "ios": "part2/adhan-brunei-1-30.caf",
+   "ios": "adhan-brunei-1-30.caf",
    "iosBytes": 351829
   },
   {
@@ -557,9 +557,9 @@
    "hint": "أذان كامل",
    "seconds": 188,
    "fajr": false,
-   "full": "part2/adhan-brunei-2.m4a",
+   "full": "adhan-brunei-2.m4a",
    "fullBytes": 1548332,
-   "ios": "part2/adhan-brunei-2-30.caf",
+   "ios": "adhan-brunei-2-30.caf",
    "iosBytes": 351829
   },
   {
@@ -568,9 +568,9 @@
    "hint": "أذان كامل",
    "seconds": 209,
    "fajr": false,
-   "full": "part2/adhan-brunei-3.m4a",
+   "full": "adhan-brunei-3.m4a",
    "fullBytes": 1719717,
-   "ios": "part2/adhan-brunei-3-30.caf",
+   "ios": "adhan-brunei-3-30.caf",
    "iosBytes": 351829
   },
   {
@@ -579,9 +579,9 @@
    "hint": "أذان كامل",
    "seconds": 178,
    "fajr": false,
-   "full": "part2/adhan-turkey-1.m4a",
+   "full": "adhan-turkey-1.m4a",
    "fullBytes": 1471516,
-   "ios": "part2/adhan-turkey-1-30.caf",
+   "ios": "adhan-turkey-1-30.caf",
    "iosBytes": 351760
   },
   {
@@ -590,9 +590,9 @@
    "hint": "أذان كامل",
    "seconds": 48,
    "fajr": false,
-   "full": "part2/adhan-turkey-2.m4a",
+   "full": "adhan-turkey-2.m4a",
    "fullBytes": 391898,
-   "ios": "part2/adhan-turkey-2-30.caf",
+   "ios": "adhan-turkey-2-30.caf",
    "iosBytes": 351760
   },
   {
@@ -601,9 +601,9 @@
    "hint": "أذان كامل",
    "seconds": 144,
    "fajr": false,
-   "full": "part2/adhan-tunisia.m4a",
+   "full": "adhan-tunisia.m4a",
    "fullBytes": 1171947,
-   "ios": "part2/adhan-tunisia-30.caf",
+   "ios": "adhan-tunisia-30.caf",
    "iosBytes": 351754
   },
   {
@@ -612,9 +612,9 @@
    "hint": "أذان كامل",
    "seconds": 186,
    "fajr": false,
-   "full": "part2/adhan-maldives.m4a",
+   "full": "adhan-maldives.m4a",
    "fullBytes": 1515222,
-   "ios": "part2/adhan-maldives-30.caf",
+   "ios": "adhan-maldives-30.caf",
    "iosBytes": 351799
   },
   {
@@ -623,9 +623,9 @@
    "hint": "أذان كامل",
    "seconds": 315,
    "fajr": false,
-   "full": "part2/adhan-georgia.m4a",
+   "full": "adhan-georgia.m4a",
    "fullBytes": 2594703,
-   "ios": "part2/adhan-georgia-30.caf",
+   "ios": "adhan-georgia-30.caf",
    "iosBytes": 351756
   },
   {
@@ -634,9 +634,9 @@
    "hint": "أذان كامل",
    "seconds": 236,
    "fajr": false,
-   "full": "part2/adhan-dubai-uae.m4a",
+   "full": "adhan-dubai-uae.m4a",
    "fullBytes": 1923305,
-   "ios": "part2/adhan-dubai-uae-30.caf",
+   "ios": "adhan-dubai-uae-30.caf",
    "iosBytes": 351802
   },
   {
@@ -645,9 +645,9 @@
    "hint": "أذان كامل",
    "seconds": 221,
    "fajr": false,
-   "full": "part2/adhan-syria.m4a",
+   "full": "adhan-syria.m4a",
    "fullBytes": 1835727,
-   "ios": "part2/adhan-syria-30.caf",
+   "ios": "adhan-syria-30.caf",
    "iosBytes": 351760
   },
   {
@@ -656,9 +656,9 @@
    "hint": "أذان كامل",
    "seconds": 140,
    "fajr": false,
-   "full": "part2/adhan-ajman-uae.m4a",
+   "full": "adhan-ajman-uae.m4a",
    "fullBytes": 1145260,
-   "ios": "part2/adhan-ajman-uae-30.caf",
+   "ios": "adhan-ajman-uae-30.caf",
    "iosBytes": 351814
   },
   {
@@ -667,9 +667,9 @@
    "hint": "أذان كامل",
    "seconds": 222,
    "fajr": false,
-   "full": "part2/adhan-kenya.m4a",
+   "full": "adhan-kenya.m4a",
    "fullBytes": 1829004,
-   "ios": "part2/adhan-kenya-30.caf",
+   "ios": "adhan-kenya-30.caf",
    "iosBytes": 357518
   },
   {
@@ -678,9 +678,9 @@
    "hint": "أذان كامل",
    "seconds": 198,
    "fajr": false,
-   "full": "part2/adhan-malaysia-1.m4a",
+   "full": "adhan-malaysia-1.m4a",
    "fullBytes": 1646280,
-   "ios": "part2/adhan-malaysia-1-30.caf",
+   "ios": "adhan-malaysia-1-30.caf",
    "iosBytes": 351772
   },
   {
@@ -689,9 +689,9 @@
    "hint": "أذان كامل",
    "seconds": 199,
    "fajr": false,
-   "full": "part2/adhan-malaysia-2.m4a",
+   "full": "adhan-malaysia-2.m4a",
    "fullBytes": 1642820,
-   "ios": "part2/adhan-malaysia-2-30.caf",
+   "ios": "adhan-malaysia-2-30.caf",
    "iosBytes": 351772
   },
   {
@@ -700,9 +700,9 @@
    "hint": "أذان كامل",
    "seconds": 247,
    "fajr": false,
-   "full": "part2/adhan-masjid-al-rajehe-saudi-arabia.m4a",
+   "full": "adhan-masjid-al-rajehe-saudi-arabia.m4a",
    "fullBytes": 2039079,
-   "ios": "part2/adhan-masjid-al-rajehe-saudi-arabia-30.caf",
+   "ios": "adhan-masjid-al-rajehe-saudi-arabia-30.caf",
    "iosBytes": 351592
   },
   {
@@ -711,9 +711,9 @@
    "hint": "أذان كامل",
    "seconds": 145,
    "fajr": false,
-   "full": "part2/adhan-masjid-al-rajehe-saudi-arabia-2.m4a",
+   "full": "adhan-masjid-al-rajehe-saudi-arabia-2.m4a",
    "fullBytes": 1156696,
-   "ios": "part2/adhan-masjid-al-rajehe-saudi-arabia-2-30.caf",
+   "ios": "adhan-masjid-al-rajehe-saudi-arabia-2-30.caf",
    "iosBytes": 351592
   },
   {
@@ -722,9 +722,9 @@
    "hint": "أذان كامل",
    "seconds": 149,
    "fajr": false,
-   "full": "part2/adhan-masjid-al-rajehe-saudi-arabia-2-2.m4a",
+   "full": "adhan-masjid-al-rajehe-saudi-arabia-2-2.m4a",
    "fullBytes": 1208975,
-   "ios": "part2/adhan-masjid-al-rajehe-saudi-arabia-2-2-30.caf",
+   "ios": "adhan-masjid-al-rajehe-saudi-arabia-2-2-30.caf",
    "iosBytes": 351592
   },
   {
@@ -733,9 +733,9 @@
    "hint": "أذان كامل",
    "seconds": 152,
    "fajr": false,
-   "full": "part2/adhan-muscat-oman.m4a",
+   "full": "adhan-muscat-oman.m4a",
    "fullBytes": 1245042,
-   "ios": "part2/adhan-muscat-oman-30.caf",
+   "ios": "adhan-muscat-oman-30.caf",
    "iosBytes": 351784
   },
   {
@@ -744,9 +744,9 @@
    "hint": "أذان كامل",
    "seconds": 116,
    "fajr": false,
-   "full": "part2/islam-yassen.m4a",
+   "full": "islam-yassen.m4a",
    "fullBytes": 960124,
-   "ios": "part2/islam-yassen-30.caf",
+   "ios": "islam-yassen-30.caf",
    "iosBytes": 351786
   },
   {
@@ -755,9 +755,9 @@
    "hint": "أذان كامل",
    "seconds": 201,
    "fajr": false,
-   "full": "part2/ismail-al.m4a",
+   "full": "ismail-al.m4a",
    "fullBytes": 1656263,
-   "ios": "part2/ismail-al-30.caf",
+   "ios": "ismail-al-30.caf",
    "iosBytes": 351554
   },
   {
@@ -766,9 +766,9 @@
    "hint": "أذان كامل",
    "seconds": 198,
    "fajr": false,
-   "full": "part2/al-ameen-muhammad-qanyouh.m4a",
+   "full": "al-ameen-muhammad-qanyouh.m4a",
    "fullBytes": 1632451,
-   "ios": "part2/al-ameen-muhammad-qanyouh-30.caf",
+   "ios": "al-ameen-muhammad-qanyouh-30.caf",
    "iosBytes": 351797
   },
   {
@@ -777,9 +777,9 @@
    "hint": "أذان كامل",
    "seconds": 209,
    "fajr": false,
-   "full": "part2/al-bahlul-abu-arqub-1.m4a",
+   "full": "al-bahlul-abu-arqub-1.m4a",
    "fullBytes": 1718561,
-   "ios": "part2/al-bahlul-abu-arqub-1-30.caf",
+   "ios": "al-bahlul-abu-arqub-1-30.caf",
    "iosBytes": 351741
   },
   {
@@ -788,9 +788,9 @@
    "hint": "أذان كامل",
    "seconds": 225,
    "fajr": false,
-   "full": "part2/al-bahlul-abu-arqub-2.m4a",
+   "full": "al-bahlul-abu-arqub-2.m4a",
    "fullBytes": 1850953,
-   "ios": "part2/al-bahlul-abu-arqub-2-30.caf",
+   "ios": "al-bahlul-abu-arqub-2-30.caf",
    "iosBytes": 351733
   },
   {
@@ -799,9 +799,9 @@
    "hint": "أذان كامل",
    "seconds": 130,
    "fajr": false,
-   "full": "part2/al-duqale-muhammad-al-alam.m4a",
+   "full": "al-duqale-muhammad-al-alam.m4a",
    "fullBytes": 1071739,
-   "ios": "part2/al-duqale-muhammad-al-alam-30.caf",
+   "ios": "al-duqale-muhammad-al-alam-30.caf",
    "iosBytes": 351725
   },
   {
@@ -810,9 +810,9 @@
    "hint": "أذان كامل",
    "seconds": 169,
    "fajr": false,
-   "full": "part2/al-saed-metwale-al-aal.m4a",
+   "full": "al-saed-metwale-al-aal.m4a",
    "fullBytes": 1403574,
-   "ios": "part2/al-saed-metwale-al-aal-30.caf",
+   "ios": "al-saed-metwale-al-aal-30.caf",
    "iosBytes": 351770
   },
   {
@@ -821,9 +821,9 @@
    "hint": "أذان كامل",
    "seconds": 324,
    "fajr": false,
-   "full": "part2/al-sayed-muslim.m4a",
+   "full": "al-sayed-muslim.m4a",
    "fullBytes": 2659752,
-   "ios": "part2/al-sayed-muslim-30.caf",
+   "ios": "al-sayed-muslim-30.caf",
    "iosBytes": 351776
   },
   {
@@ -832,9 +832,9 @@
    "hint": "أذان كامل",
    "seconds": 137,
    "fajr": false,
-   "full": "part2/al-naqshbandi.m4a",
+   "full": "al-naqshbandi.m4a",
    "fullBytes": 1125810,
-   "ios": "part2/al-naqshbandi-30.caf",
+   "ios": "al-naqshbandi-30.caf",
    "iosBytes": 351700
   },
   {
@@ -843,9 +843,9 @@
    "hint": "أذان كامل",
    "seconds": 144,
    "fajr": false,
-   "full": "part2/azan-nakshabandi.m4a",
+   "full": "azan-nakshabandi.m4a",
    "fullBytes": 1186586,
-   "ios": "part2/azan-nakshabandi-30.caf",
+   "ios": "azan-nakshabandi-30.caf",
    "iosBytes": 351554
   },
   {
@@ -854,9 +854,9 @@
    "hint": "أذان كامل",
    "seconds": 260,
    "fajr": false,
-   "full": "part2/tariq-muhammad.m4a",
+   "full": "tariq-muhammad.m4a",
    "fullBytes": 2133619,
-   "ios": "part2/tariq-muhammad-30.caf",
+   "ios": "tariq-muhammad-30.caf",
    "iosBytes": 351805
   },
   {
@@ -865,9 +865,9 @@
    "hint": "تركيا",
    "seconds": 295,
    "fajr": false,
-   "full": "part2/anuar-duman-turkey.m4a",
+   "full": "anuar-duman-turkey.m4a",
    "fullBytes": 2433161,
-   "ios": "part2/anuar-duman-turkey-30.caf",
+   "ios": "anuar-duman-turkey-30.caf",
    "iosBytes": 351812
   },
   {
@@ -876,9 +876,9 @@
    "hint": "أذان كامل",
    "seconds": 207,
    "fajr": false,
-   "full": "part2/badee-jadu-1.m4a",
+   "full": "badee-jadu-1.m4a",
    "fullBytes": 1699544,
-   "ios": "part2/badee-jadu-1-30.caf",
+   "ios": "badee-jadu-1-30.caf",
    "iosBytes": 351782
   },
   {
@@ -887,9 +887,9 @@
    "hint": "أذان كامل",
    "seconds": 231,
    "fajr": false,
-   "full": "part2/badee-jadu-2.m4a",
+   "full": "badee-jadu-2.m4a",
    "fullBytes": 1905551,
-   "ios": "part2/badee-jadu-2-30.caf",
+   "ios": "badee-jadu-2-30.caf",
    "iosBytes": 351776
   },
   {
@@ -898,9 +898,9 @@
    "hint": "أذان كامل",
    "seconds": 195,
    "fajr": false,
-   "full": "part2/badee-jadu-3.m4a",
+   "full": "badee-jadu-3.m4a",
    "fullBytes": 1609558,
-   "ios": "part2/badee-jadu-3-30.caf",
+   "ios": "badee-jadu-3-30.caf",
    "iosBytes": 351776
   },
   {
@@ -909,9 +909,9 @@
    "hint": "أذان كامل",
    "seconds": 117,
    "fajr": false,
-   "full": "part2/balbasher-abdel-qadir.m4a",
+   "full": "balbasher-abdel-qadir.m4a",
    "fullBytes": 960952,
-   "ios": "part2/balbasher-abdel-qadir-30.caf",
+   "ios": "balbasher-abdel-qadir-30.caf",
    "iosBytes": 351809
   },
   {
@@ -920,9 +920,9 @@
    "hint": "أذان كامل",
    "seconds": 149,
    "fajr": false,
-   "full": "part2/bnu-sawana-1.m4a",
+   "full": "bnu-sawana-1.m4a",
    "fullBytes": 1226781,
-   "ios": "part2/bnu-sawana-1-30.caf",
+   "ios": "bnu-sawana-1-30.caf",
    "iosBytes": 351795
   },
   {
@@ -931,9 +931,9 @@
    "hint": "أذان كامل",
    "seconds": 145,
    "fajr": false,
-   "full": "part2/bnu-sawana-2.m4a",
+   "full": "bnu-sawana-2.m4a",
    "fullBytes": 1200537,
-   "ios": "part2/bnu-sawana-2-30.caf",
+   "ios": "bnu-sawana-2-30.caf",
    "iosBytes": 351800
   },
   {
@@ -942,9 +942,9 @@
    "hint": "أذان كامل",
    "seconds": 183,
    "fajr": false,
-   "full": "part2/tamer-islam.m4a",
+   "full": "tamer-islam.m4a",
    "fullBytes": 1486513,
-   "ios": "part2/tamer-islam-30.caf",
+   "ios": "tamer-islam-30.caf",
    "iosBytes": 351776
   },
   {
@@ -953,9 +953,9 @@
    "hint": "أذان كامل",
    "seconds": 163,
    "fajr": false,
-   "full": "part2/jamal-abu-al-hamed-al-jaafare.m4a",
+   "full": "jamal-abu-al-hamed-al-jaafare.m4a",
    "fullBytes": 1350550,
-   "ios": "part2/jamal-abu-al-hamed-al-jaafare-30.caf",
+   "ios": "jamal-abu-al-hamed-al-jaafare-30.caf",
    "iosBytes": 351804
   },
   {
@@ -964,9 +964,9 @@
    "hint": "الجزائر",
    "seconds": 195,
    "fajr": false,
-   "full": "part2/haj-sulaiman-mukhtar-algeria.m4a",
+   "full": "haj-sulaiman-mukhtar-algeria.m4a",
    "fullBytes": 1599758,
-   "ios": "part2/haj-sulaiman-mukhtar-algeria-30.caf",
+   "ios": "haj-sulaiman-mukhtar-algeria-30.caf",
    "iosBytes": 351833
   },
   {
@@ -975,9 +975,9 @@
    "hint": "أذان كامل",
    "seconds": 111,
    "fajr": false,
-   "full": "part2/hafed-hessen-erq.m4a",
+   "full": "hafed-hessen-erq.m4a",
    "fullBytes": 915684,
-   "ios": "part2/hafed-hessen-erq-30.caf",
+   "ios": "hafed-hessen-erq-30.caf",
    "iosBytes": 351726
   },
   {
@@ -986,9 +986,9 @@
    "hint": "أذان كامل",
    "seconds": 146,
    "fajr": false,
-   "full": "part2/hussam-al-deen-obade.m4a",
+   "full": "hussam-al-deen-obade.m4a",
    "fullBytes": 1198012,
-   "ios": "part2/hussam-al-deen-obade-30.caf",
+   "ios": "hussam-al-deen-obade-30.caf",
    "iosBytes": 351795
   },
   {
@@ -997,9 +997,9 @@
    "hint": "قطر",
    "seconds": 179,
    "fajr": false,
-   "full": "part2/hassan-khalfan-qatar.m4a",
+   "full": "hassan-khalfan-qatar.m4a",
    "fullBytes": 1473493,
-   "ios": "part2/hassan-khalfan-qatar-30.caf",
+   "ios": "hassan-khalfan-qatar-30.caf",
    "iosBytes": 354846
   },
   {
@@ -1008,9 +1008,9 @@
    "hint": "أذان كامل",
    "seconds": 186,
    "fajr": false,
-   "full": "part2/hassan-salah-baalul.m4a",
+   "full": "hassan-salah-baalul.m4a",
    "fullBytes": 1536055,
-   "ios": "part2/hassan-salah-baalul-30.caf",
+   "ios": "hassan-salah-baalul-30.caf",
    "iosBytes": 351845
   },
   {
@@ -1019,9 +1019,9 @@
    "hint": "أذان كامل",
    "seconds": 164,
    "fajr": false,
-   "full": "part2/hassan-mahmud-bare.m4a",
+   "full": "hassan-mahmud-bare.m4a",
    "fullBytes": 1331409,
-   "ios": "part2/hassan-mahmud-bare-30.caf",
+   "ios": "hassan-mahmud-bare-30.caf",
    "iosBytes": 351818
   },
   {
@@ -1030,9 +1030,9 @@
    "hint": "أذان كامل",
    "seconds": 224,
    "fajr": false,
-   "full": "part2/hussain-afifi.m4a",
+   "full": "hussain-afifi.m4a",
    "fullBytes": 1841213,
-   "ios": "part2/hussain-afifi-30.caf",
+   "ios": "hussain-afifi-30.caf",
    "iosBytes": 351727
   },
   {
@@ -1041,9 +1041,9 @@
    "hint": "أذان كامل",
    "seconds": 192,
    "fajr": false,
-   "full": "part2/hamad-al-daghriri.m4a",
+   "full": "hamad-al-daghriri.m4a",
    "fullBytes": 1572916,
-   "ios": "part2/hamad-al-daghriri-30.caf",
+   "ios": "hamad-al-daghriri-30.caf",
    "iosBytes": 351844
   },
   {
@@ -1052,9 +1052,9 @@
    "hint": "جودة عالية",
    "seconds": 154,
    "fajr": false,
-   "full": "part2/hamad-al-daghriri-hq.m4a",
+   "full": "hamad-al-daghriri-hq.m4a",
    "fullBytes": 1267497,
-   "ios": "part2/hamad-al-daghriri-hq-30.caf",
+   "ios": "hamad-al-daghriri-hq-30.caf",
    "iosBytes": 351673
   },
   {
@@ -1063,9 +1063,9 @@
    "hint": "نجران السعودية",
    "seconds": 267,
    "fajr": false,
-   "full": "part3/hamdan-al-maleke-najran-saudi-arabia.m4a",
+   "full": "hamdan-al-maleke-najran-saudi-arabia.m4a",
    "fullBytes": 2203162,
-   "ios": "part3/hamdan-al-maleke-najran-saudi-arabia-30.caf",
+   "ios": "hamdan-al-maleke-najran-saudi-arabia-30.caf",
    "iosBytes": 351940
   },
   {
@@ -1074,9 +1074,9 @@
    "hint": "أذان كامل",
    "seconds": 241,
    "fajr": false,
-   "full": "part3/hamza-al-halabea.m4a",
+   "full": "hamza-al-halabea.m4a",
    "fullBytes": 1990218,
-   "ios": "part3/hamza-al-halabea-30.caf",
+   "ios": "hamza-al-halabea-30.caf",
    "iosBytes": 351727
   },
   {
@@ -1085,9 +1085,9 @@
    "hint": "أذان كامل",
    "seconds": 175,
    "fajr": false,
-   "full": "part3/hamza-al-majale.m4a",
+   "full": "hamza-al-majale.m4a",
    "fullBytes": 1438352,
-   "ios": "part3/hamza-al-majale-30.caf",
+   "ios": "hamza-al-majale-30.caf",
    "iosBytes": 351788
   },
   {
@@ -1096,9 +1096,9 @@
    "hint": "أذان كامل",
    "seconds": 174,
    "fajr": false,
-   "full": "part3/rabeh-ibn-darah-al-jazairi.m4a",
+   "full": "rabeh-ibn-darah-al-jazairi.m4a",
    "fullBytes": 1420772,
-   "ios": "part3/rabeh-ibn-darah-al-jazairi-30.caf",
+   "ios": "rabeh-ibn-darah-al-jazairi-30.caf",
    "iosBytes": 351761
   },
   {
@@ -1107,9 +1107,9 @@
    "hint": "أذان كامل",
    "seconds": 229,
    "fajr": false,
-   "full": "part3/rabee-abdul-raheem-essa.m4a",
+   "full": "rabee-abdul-raheem-essa.m4a",
    "fullBytes": 1875234,
-   "ios": "part3/rabee-abdul-raheem-essa-30.caf",
+   "ios": "rabee-abdul-raheem-essa-30.caf",
    "iosBytes": 351802
   },
   {
@@ -1118,9 +1118,9 @@
    "hint": "الجزائر",
    "seconds": 180,
    "fajr": false,
-   "full": "part3/riad-al-djazairi-algeria.m4a",
+   "full": "riad-al-djazairi-algeria.m4a",
    "fullBytes": 1476871,
-   "ios": "part3/riad-al-djazairi-algeria-30.caf",
+   "ios": "riad-al-djazairi-algeria-30.caf",
    "iosBytes": 351829
   },
   {
@@ -1129,9 +1129,9 @@
    "hint": "أذان كامل",
    "seconds": 185,
    "fajr": false,
-   "full": "part3/zaher-muhammad-taresh.m4a",
+   "full": "zaher-muhammad-taresh.m4a",
    "fullBytes": 1496748,
-   "ios": "part3/zaher-muhammad-taresh-30.caf",
+   "ios": "zaher-muhammad-taresh-30.caf",
    "iosBytes": 351582
   },
   {
@@ -1140,9 +1140,9 @@
    "hint": "أذان كامل",
    "seconds": 194,
    "fajr": false,
-   "full": "part3/zayd-al-aatya.m4a",
+   "full": "zayd-al-aatya.m4a",
    "fullBytes": 1599616,
-   "ios": "part3/zayd-al-aatya-30.caf",
+   "ios": "zayd-al-aatya-30.caf",
    "iosBytes": 351787
   },
   {
@@ -1151,9 +1151,9 @@
    "hint": "أذان كامل",
    "seconds": 174,
    "fajr": false,
-   "full": "part3/salem-hamde.m4a",
+   "full": "salem-hamde.m4a",
    "fullBytes": 1433906,
-   "ios": "part3/salem-hamde-30.caf",
+   "ios": "salem-hamde-30.caf",
    "iosBytes": 351807
   },
   {
@@ -1162,9 +1162,9 @@
    "hint": "أذان كامل",
    "seconds": 190,
    "fajr": false,
-   "full": "part3/samer-al-sagher.m4a",
+   "full": "samer-al-sagher.m4a",
    "fullBytes": 1561606,
-   "ios": "part3/samer-al-sagher-30.caf",
+   "ios": "samer-al-sagher-30.caf",
    "iosBytes": 351786
   },
   {
@@ -1173,9 +1173,9 @@
    "hint": "فلسطين",
    "seconds": 183,
    "fajr": false,
-   "full": "part3/saheb-hane-khatab-palestine.m4a",
+   "full": "saheb-hane-khatab-palestine.m4a",
    "fullBytes": 1508624,
-   "ios": "part3/saheb-hane-khatab-palestine-30.caf",
+   "ios": "saheb-hane-khatab-palestine-30.caf",
    "iosBytes": 351772
   },
   {
@@ -1184,9 +1184,9 @@
    "hint": "قطر",
    "seconds": 191,
    "fajr": false,
-   "full": "part3/saleh-al-nabet-qatar.m4a",
+   "full": "saleh-al-nabet-qatar.m4a",
    "fullBytes": 1569736,
-   "ios": "part3/saleh-al-nabet-qatar-30.caf",
+   "ios": "saleh-al-nabet-qatar-30.caf",
    "iosBytes": 354850
   },
   {
@@ -1195,9 +1195,9 @@
    "hint": "أذان كامل",
    "seconds": 164,
    "fajr": false,
-   "full": "part3/tareq-fathe-ahmad.m4a",
+   "full": "tareq-fathe-ahmad.m4a",
    "fullBytes": 1355124,
-   "ios": "part3/tareq-fathe-ahmad-30.caf",
+   "ios": "tareq-fathe-ahmad-30.caf",
    "iosBytes": 351855
   },
   {
@@ -1206,9 +1206,9 @@
    "hint": "أذان كامل",
    "seconds": 188,
    "fajr": false,
-   "full": "part3/taleb-al-qanube.m4a",
+   "full": "taleb-al-qanube.m4a",
    "fullBytes": 1521738,
-   "ios": "part3/taleb-al-qanube-30.caf",
+   "ios": "taleb-al-qanube-30.caf",
    "iosBytes": 351780
   },
   {
@@ -1217,9 +1217,9 @@
    "hint": "أذان كامل",
    "seconds": 152,
    "fajr": false,
-   "full": "part3/taha-al-junayd.m4a",
+   "full": "taha-al-junayd.m4a",
    "fullBytes": 1223161,
-   "ios": "part3/taha-al-junayd-30.caf",
+   "ios": "taha-al-junayd-30.caf",
    "iosBytes": 351744
   },
   {
@@ -1228,9 +1228,9 @@
    "hint": "أذان كامل",
    "seconds": 242,
    "fajr": false,
-   "full": "part3/adal-malek-abdulah-al-massre.m4a",
+   "full": "adal-malek-abdulah-al-massre.m4a",
    "fullBytes": 1984356,
-   "ios": "part3/adal-malek-abdulah-al-massre-30.caf",
+   "ios": "adal-malek-abdulah-al-massre-30.caf",
    "iosBytes": 351874
   },
   {
@@ -1239,9 +1239,9 @@
    "hint": "الحرم المكي",
    "seconds": 282,
    "fajr": false,
-   "full": "part3/assem-bukhrare-al-haram-al-maki.m4a",
+   "full": "assem-bukhrare-al-haram-al-maki.m4a",
    "fullBytes": 2308268,
-   "ios": "part3/assem-bukhrare-al-haram-al-maki-30.caf",
+   "ios": "assem-bukhrare-al-haram-al-maki-30.caf",
    "iosBytes": 351579
   },
   {
@@ -1250,9 +1250,9 @@
    "hint": "مصر",
    "seconds": 245,
    "fajr": false,
-   "full": "part3/abdulbasit-abdusamad-1-egypt.m4a",
+   "full": "abdulbasit-abdusamad-1-egypt.m4a",
    "fullBytes": 1983092,
-   "ios": "part3/abdulbasit-abdusamad-1-egypt-30.caf",
+   "ios": "abdulbasit-abdusamad-1-egypt-30.caf",
    "iosBytes": 351592
   },
   {
@@ -1261,9 +1261,9 @@
    "hint": "مصر",
    "seconds": 247,
    "fajr": false,
-   "full": "part3/abdulbasit-abdusamad-2-egypt.m4a",
+   "full": "abdulbasit-abdusamad-2-egypt.m4a",
    "fullBytes": 1864902,
-   "ios": "part3/abdulbasit-abdusamad-2-egypt-30.caf",
+   "ios": "abdulbasit-abdusamad-2-egypt-30.caf",
    "iosBytes": 351592
   },
   {
@@ -1272,9 +1272,9 @@
    "hint": "مصر",
    "seconds": 187,
    "fajr": false,
-   "full": "part3/abdulbasit-abdusamad-3-egypt.m4a",
+   "full": "abdulbasit-abdusamad-3-egypt.m4a",
    "fullBytes": 1538173,
-   "ios": "part3/abdulbasit-abdusamad-3-egypt-30.caf",
+   "ios": "abdulbasit-abdusamad-3-egypt-30.caf",
    "iosBytes": 351787
   },
   {
@@ -1283,9 +1283,9 @@
    "hint": "مصر",
    "seconds": 189,
    "fajr": false,
-   "full": "part3/abdulbasit-abdusamad-4-egypt.m4a",
+   "full": "abdulbasit-abdusamad-4-egypt.m4a",
    "fullBytes": 1537994,
-   "ios": "part3/abdulbasit-abdusamad-4-egypt-30.caf",
+   "ios": "abdulbasit-abdusamad-4-egypt-30.caf",
    "iosBytes": 351773
   },
   {
@@ -1294,9 +1294,9 @@
    "hint": "القاهرة",
    "seconds": 201,
    "fajr": false,
-   "full": "part3/abdulbasit-abdusamad-5-cairo.m4a",
+   "full": "abdulbasit-abdusamad-5-cairo.m4a",
    "fullBytes": 1645539,
-   "ios": "part3/abdulbasit-abdusamad-5-cairo-30.caf",
+   "ios": "abdulbasit-abdusamad-5-cairo-30.caf",
    "iosBytes": 351812
   },
   {
@@ -1305,9 +1305,9 @@
    "hint": "أذان الفجر · مصر",
    "seconds": 294,
    "fajr": true,
-   "full": "part3/abdulbasit-abdusamad-6-fajr-egypt.m4a",
+   "full": "abdulbasit-abdusamad-6-fajr-egypt.m4a",
    "fullBytes": 2410997,
-   "ios": "part3/abdulbasit-abdusamad-6-fajr-egypt-30.caf",
+   "ios": "abdulbasit-abdusamad-6-fajr-egypt-30.caf",
    "iosBytes": 351860
   },
   {
@@ -1316,9 +1316,9 @@
    "hint": "أذان الفجر · مصر",
    "seconds": 193,
    "fajr": true,
-   "full": "part3/abdulbasit-abdusamad-7-fajr-egypt.m4a",
+   "full": "abdulbasit-abdusamad-7-fajr-egypt.m4a",
    "fullBytes": 1612069,
-   "ios": "part3/abdulbasit-abdusamad-7-fajr-egypt-30.caf",
+   "ios": "abdulbasit-abdusamad-7-fajr-egypt-30.caf",
    "iosBytes": 351883
   },
   {
@@ -1327,9 +1327,9 @@
    "hint": "لبنان",
    "seconds": 249,
    "fajr": false,
-   "full": "part3/abd-alrazaq-saleh-lebanon.m4a",
+   "full": "abd-alrazaq-saleh-lebanon.m4a",
    "fullBytes": 2066190,
-   "ios": "part3/abd-alrazaq-saleh-lebanon-30.caf",
+   "ios": "abd-alrazaq-saleh-lebanon-30.caf",
    "iosBytes": 351766
   },
   {
@@ -1338,9 +1338,9 @@
    "hint": "أذان كامل",
    "seconds": 166,
    "fajr": false,
-   "full": "part3/abdu-al-karem-jabare.m4a",
+   "full": "abdu-al-karem-jabare.m4a",
    "fullBytes": 1365652,
-   "ios": "part3/abdu-al-karem-jabare-30.caf",
+   "ios": "abdu-al-karem-jabare-30.caf",
    "iosBytes": 351729
   },
   {
@@ -1349,9 +1349,9 @@
    "hint": "أذان كامل",
    "seconds": 142,
    "fajr": false,
-   "full": "part3/abdel-moneim-abdel-mobdi.m4a",
+   "full": "abdel-moneim-abdel-mobdi.m4a",
    "fullBytes": 1167297,
-   "ios": "part3/abdel-moneim-abdel-mobdi-30.caf",
+   "ios": "abdel-moneim-abdel-mobdi-30.caf",
    "iosBytes": 351819
   },
   {
@@ -1360,9 +1360,9 @@
    "hint": "أذان كامل",
    "seconds": 208,
    "fajr": false,
-   "full": "part3/abdul-rahman-al-arake-1.m4a",
+   "full": "abdul-rahman-al-arake-1.m4a",
    "fullBytes": 1700859,
-   "ios": "part3/abdul-rahman-al-arake-1-30.caf",
+   "ios": "abdul-rahman-al-arake-1-30.caf",
    "iosBytes": 351788
   },
   {
@@ -1371,9 +1371,9 @@
    "hint": "أذان كامل",
    "seconds": 240,
    "fajr": false,
-   "full": "part3/abdul-rahman-al-arake-2.m4a",
+   "full": "abdul-rahman-al-arake-2.m4a",
    "fullBytes": 1963578,
-   "ios": "part3/abdul-rahman-al-arake-2-30.caf",
+   "ios": "abdul-rahman-al-arake-2-30.caf",
    "iosBytes": 351794
   },
   {
@@ -1382,9 +1382,9 @@
    "hint": "أذان كامل",
    "seconds": 282,
    "fajr": false,
-   "full": "part3/abdul-rahman-al-arake-3.m4a",
+   "full": "abdul-rahman-al-arake-3.m4a",
    "fullBytes": 2234971,
-   "ios": "part3/abdul-rahman-al-arake-3-30.caf",
+   "ios": "abdul-rahman-al-arake-3-30.caf",
    "iosBytes": 351782
   },
   {
@@ -1393,9 +1393,9 @@
    "hint": "أذان كامل",
    "seconds": 147,
    "fajr": false,
-   "full": "part3/abdul-rahman-kassab-1.m4a",
+   "full": "abdul-rahman-kassab-1.m4a",
    "fullBytes": 1202125,
-   "ios": "part3/abdul-rahman-kassab-1-30.caf",
+   "ios": "abdul-rahman-kassab-1-30.caf",
    "iosBytes": 351885
   },
   {
@@ -1404,9 +1404,9 @@
    "hint": "أذان كامل",
    "seconds": 166,
    "fajr": false,
-   "full": "part3/abdul-rahman-kassab-2.m4a",
+   "full": "abdul-rahman-kassab-2.m4a",
    "fullBytes": 1358916,
-   "ios": "part3/abdul-rahman-kassab-2-30.caf",
+   "ios": "abdul-rahman-kassab-2-30.caf",
    "iosBytes": 351846
   },
   {
@@ -1415,9 +1415,9 @@
    "hint": "أذان كامل",
    "seconds": 164,
    "fajr": false,
-   "full": "part3/abdul-rahman-majde.m4a",
+   "full": "abdul-rahman-majde.m4a",
    "fullBytes": 1352388,
-   "ios": "part3/abdul-rahman-majde-30.caf",
+   "ios": "abdul-rahman-majde-30.caf",
    "iosBytes": 351784
   },
   {
@@ -1426,9 +1426,9 @@
    "hint": "مصر",
    "seconds": 272,
    "fajr": false,
-   "full": "part3/abdulah-al-dahbe-egypt.m4a",
+   "full": "abdulah-al-dahbe-egypt.m4a",
    "fullBytes": 2236366,
-   "ios": "part3/abdulah-al-dahbe-egypt-30.caf",
+   "ios": "abdulah-al-dahbe-egypt-30.caf",
    "iosBytes": 351846
   },
   {
@@ -1437,9 +1437,9 @@
    "hint": "أذان كامل",
    "seconds": 187,
    "fajr": false,
-   "full": "part3/abdulah-al-sabaawe.m4a",
+   "full": "abdulah-al-sabaawe.m4a",
    "fullBytes": 1456388,
-   "ios": "part3/abdulah-al-sabaawe-30.caf",
+   "ios": "abdulah-al-sabaawe-30.caf",
    "iosBytes": 351796
   },
   {
@@ -1448,9 +1448,9 @@
    "hint": "أذان كامل",
    "seconds": 139,
    "fajr": false,
-   "full": "part3/abdulah-al-maknawe.m4a",
+   "full": "abdulah-al-maknawe.m4a",
    "fullBytes": 1147776,
-   "ios": "part3/abdulah-al-maknawe-30.caf",
+   "ios": "abdulah-al-maknawe-30.caf",
    "iosBytes": 351834
   },
   {
@@ -1459,9 +1459,9 @@
    "hint": "أذان كامل",
    "seconds": 206,
    "fajr": false,
-   "full": "part3/abdul-majid-al-surehi-1.m4a",
+   "full": "abdul-majid-al-surehi-1.m4a",
    "fullBytes": 1691741,
-   "ios": "part3/abdul-majid-al-surehi-1-30.caf",
+   "ios": "abdul-majid-al-surehi-1-30.caf",
    "iosBytes": 351673
   },
   {
@@ -1470,9 +1470,9 @@
    "hint": "أذان كامل",
    "seconds": 33,
    "fajr": false,
-   "full": "part3/abdul-majid-al-surehi-2.m4a",
+   "full": "abdul-majid-al-surehi-2.m4a",
    "fullBytes": 267397,
-   "ios": "part3/abdul-majid-al-surehi-2-30.caf",
+   "ios": "abdul-majid-al-surehi-2-30.caf",
    "iosBytes": 351802
   },
   {
@@ -1481,9 +1481,9 @@
    "hint": "أذان كامل",
    "seconds": 211,
    "fajr": false,
-   "full": "part3/abdul-majid-al-surehi-3.m4a",
+   "full": "abdul-majid-al-surehi-3.m4a",
    "fullBytes": 1721668,
-   "ios": "part3/abdul-majid-al-surehi-3-30.caf",
+   "ios": "abdul-majid-al-surehi-3-30.caf",
    "iosBytes": 351706
   },
   {
@@ -1492,9 +1492,9 @@
    "hint": "أذان كامل",
    "seconds": 159,
    "fajr": false,
-   "full": "part3/abdul-wali-al-arkani.m4a",
+   "full": "abdul-wali-al-arkani.m4a",
    "fullBytes": 1296189,
-   "ios": "part3/abdul-wali-al-arkani-30.caf",
+   "ios": "abdul-wali-al-arkani-30.caf",
    "iosBytes": 351753
   },
   {
@@ -1503,9 +1503,9 @@
    "hint": "أذان كامل",
    "seconds": 280,
    "fajr": false,
-   "full": "part3/othman-al-masseme.m4a",
+   "full": "othman-al-masseme.m4a",
    "fullBytes": 2276343,
-   "ios": "part3/othman-al-masseme-30.caf",
+   "ios": "othman-al-masseme-30.caf",
    "iosBytes": 357105
   },
   {
@@ -1514,9 +1514,9 @@
    "hint": "أذان كامل",
    "seconds": 243,
    "fajr": false,
-   "full": "part3/ezzedine-amarna.m4a",
+   "full": "ezzedine-amarna.m4a",
    "fullBytes": 1995890,
-   "ios": "part3/ezzedine-amarna-30.caf",
+   "ios": "ezzedine-amarna-30.caf",
    "iosBytes": 351776
   },
   {
@@ -1525,9 +1525,9 @@
    "hint": "جودة عالية",
    "seconds": 244,
    "fajr": false,
-   "full": "part3/ali-ibn-ahmad-mala-hq.m4a",
+   "full": "ali-ibn-ahmad-mala-hq.m4a",
    "fullBytes": 2011473,
-   "ios": "part3/ali-ibn-ahmad-mala-hq-30.caf",
+   "ios": "ali-ibn-ahmad-mala-hq-30.caf",
    "iosBytes": 351742
   },
   {
@@ -1536,9 +1536,9 @@
    "hint": "جودة عالية",
    "seconds": 198,
    "fajr": false,
-   "full": "part3/ali-ibn-ahmad-mala-hq-2.m4a",
+   "full": "ali-ibn-ahmad-mala-hq-2.m4a",
    "fullBytes": 1631829,
-   "ios": "part3/ali-ibn-ahmad-mala-hq-2-30.caf",
+   "ios": "ali-ibn-ahmad-mala-hq-2-30.caf",
    "iosBytes": 351554
   },
   {
@@ -1547,9 +1547,9 @@
    "hint": "الحرم المكي",
    "seconds": 246,
    "fajr": false,
-   "full": "part3/ali-ibn-ahmad-mala-1-al-haram-al-mak.m4a",
+   "full": "ali-ibn-ahmad-mala-1-al-haram-al-mak.m4a",
    "fullBytes": 2033818,
-   "ios": "part3/ali-ibn-ahmad-mala-1-al-haram-al-mak-30.caf",
+   "ios": "ali-ibn-ahmad-mala-1-al-haram-al-mak-30.caf",
    "iosBytes": 351581
   },
   {
@@ -1558,9 +1558,9 @@
    "hint": "الحرم المكي",
    "seconds": 215,
    "fajr": false,
-   "full": "part3/ali-ibn-ahmad-mala-2-al-haram-al-mak.m4a",
+   "full": "ali-ibn-ahmad-mala-2-al-haram-al-mak.m4a",
    "fullBytes": 1753107,
-   "ios": "part3/ali-ibn-ahmad-mala-2-al-haram-al-mak-30.caf",
+   "ios": "ali-ibn-ahmad-mala-2-al-haram-al-mak-30.caf",
    "iosBytes": 351582
   },
   {
@@ -1569,9 +1569,9 @@
    "hint": "الحرم المكي",
    "seconds": 205,
    "fajr": false,
-   "full": "part3/ali-ibn-ahmad-mala-3-al-haram-al-mak.m4a",
+   "full": "ali-ibn-ahmad-mala-3-al-haram-al-mak.m4a",
    "fullBytes": 1670629,
-   "ios": "part3/ali-ibn-ahmad-mala-3-al-haram-al-mak-30.caf",
+   "ios": "ali-ibn-ahmad-mala-3-al-haram-al-mak-30.caf",
    "iosBytes": 351582
   },
   {
@@ -1580,9 +1580,9 @@
    "hint": "الحرم المكي",
    "seconds": 159,
    "fajr": false,
-   "full": "part3/ali-ibn-ahmad-mala-4-al-haram-al-mak.m4a",
+   "full": "ali-ibn-ahmad-mala-4-al-haram-al-mak.m4a",
    "fullBytes": 1294738,
-   "ios": "part3/ali-ibn-ahmad-mala-4-al-haram-al-mak-30.caf",
+   "ios": "ali-ibn-ahmad-mala-4-al-haram-al-mak-30.caf",
    "iosBytes": 351579
   },
   {
@@ -1591,9 +1591,9 @@
    "hint": "الحرم المكي",
    "seconds": 203,
    "fajr": false,
-   "full": "part4/ali-ibn-ahmad-mala-5-al-haram-al-mak.m4a",
+   "full": "ali-ibn-ahmad-mala-5-al-haram-al-mak.m4a",
    "fullBytes": 1652934,
-   "ios": "part4/ali-ibn-ahmad-mala-5-al-haram-al-mak-30.caf",
+   "ios": "ali-ibn-ahmad-mala-5-al-haram-al-mak-30.caf",
    "iosBytes": 351912
   },
   {
@@ -1602,9 +1602,9 @@
    "hint": "الحرم المكي",
    "seconds": 175,
    "fajr": false,
-   "full": "part4/ali-ibn-ahmad-mala-6-al-haram-al-mak.m4a",
+   "full": "ali-ibn-ahmad-mala-6-al-haram-al-mak.m4a",
    "fullBytes": 1442385,
-   "ios": "part4/ali-ibn-ahmad-mala-6-al-haram-al-mak-30.caf",
+   "ios": "ali-ibn-ahmad-mala-6-al-haram-al-mak-30.caf",
    "iosBytes": 351912
   },
   {
@@ -1613,9 +1613,9 @@
    "hint": "قطر",
    "seconds": 135,
    "fajr": false,
-   "full": "part4/ali-hassan-abd-al-khaliq-qatar.m4a",
+   "full": "ali-hassan-abd-al-khaliq-qatar.m4a",
    "fullBytes": 1110095,
-   "ios": "part4/ali-hassan-abd-al-khaliq-qatar-30.caf",
+   "ios": "ali-hassan-abd-al-khaliq-qatar-30.caf",
    "iosBytes": 354862
   },
   {
@@ -1624,9 +1624,9 @@
    "hint": "أذان كامل",
    "seconds": 152,
    "fajr": false,
-   "full": "part4/omar-al-omayr.m4a",
+   "full": "omar-al-omayr.m4a",
    "fullBytes": 1247077,
-   "ios": "part4/omar-al-omayr-30.caf",
+   "ios": "omar-al-omayr-30.caf",
    "iosBytes": 351673
   },
   {
@@ -1635,9 +1635,9 @@
    "hint": "أذان كامل",
    "seconds": 237,
    "fajr": false,
-   "full": "part4/omar-al-kazabri.m4a",
+   "full": "omar-al-kazabri.m4a",
    "fullBytes": 1951097,
-   "ios": "part4/omar-al-kazabri-30.caf",
+   "ios": "omar-al-kazabri-30.caf",
    "iosBytes": 351554
   },
   {
@@ -1646,9 +1646,9 @@
    "hint": "مصر",
    "seconds": 108,
    "fajr": false,
-   "full": "part4/omran-mansur-egypt.m4a",
+   "full": "omran-mansur-egypt.m4a",
    "fullBytes": 887140,
-   "ios": "part4/omran-mansur-egypt-30.caf",
+   "ios": "omran-mansur-egypt-30.caf",
    "iosBytes": 356289
   },
   {
@@ -1657,9 +1657,9 @@
    "hint": "أذان كامل",
    "seconds": 207,
    "fajr": false,
-   "full": "part4/omru-sobhe.m4a",
+   "full": "omru-sobhe.m4a",
    "fullBytes": 1702467,
-   "ios": "part4/omru-sobhe-30.caf",
+   "ios": "omru-sobhe-30.caf",
    "iosBytes": 351775
   },
   {
@@ -1668,9 +1668,9 @@
    "hint": "أذان كامل",
    "seconds": 144,
    "fajr": false,
-   "full": "part4/issa-al-hajlawe.m4a",
+   "full": "issa-al-hajlawe.m4a",
    "fullBytes": 1014273,
-   "ios": "part4/issa-al-hajlawe-30.caf",
+   "ios": "issa-al-hajlawe-30.caf",
    "iosBytes": 351790
   },
   {
@@ -1679,9 +1679,9 @@
    "hint": "أذان كامل",
    "seconds": 218,
    "fajr": false,
-   "full": "part4/ghazi-al-saadoun.m4a",
+   "full": "ghazi-al-saadoun.m4a",
    "fullBytes": 1790901,
-   "ios": "part4/ghazi-al-saadoun-30.caf",
+   "ios": "ghazi-al-saadoun-30.caf",
    "iosBytes": 351729
   },
   {
@@ -1690,9 +1690,9 @@
    "hint": "أذان كامل",
    "seconds": 184,
    "fajr": false,
-   "full": "part4/gharm-al-bishi.m4a",
+   "full": "gharm-al-bishi.m4a",
    "fullBytes": 1520975,
-   "ios": "part4/gharm-al-bishi-30.caf",
+   "ios": "gharm-al-bishi-30.caf",
    "iosBytes": 351777
   },
   {
@@ -1701,9 +1701,9 @@
    "hint": "أذان كامل",
    "seconds": 260,
    "fajr": false,
-   "full": "part4/fares-abdul-ghane.m4a",
+   "full": "fares-abdul-ghane.m4a",
    "fullBytes": 2120459,
-   "ios": "part4/fares-abdul-ghane-30.caf",
+   "ios": "fares-abdul-ghane-30.caf",
    "iosBytes": 351790
   },
   {
@@ -1712,9 +1712,9 @@
    "hint": "الحرم المكي",
    "seconds": 280,
    "fajr": false,
-   "full": "part4/faruq-abdul-rahman-hadrawe-al-haram.m4a",
+   "full": "faruq-abdul-rahman-hadrawe-al-haram.m4a",
    "fullBytes": 2317132,
-   "ios": "part4/faruq-abdul-rahman-hadrawe-al-haram-30.caf",
+   "ios": "faruq-abdul-rahman-hadrawe-al-haram-30.caf",
    "iosBytes": 351579
   },
   {
@@ -1723,9 +1723,9 @@
    "hint": "أذان كامل",
    "seconds": 88,
    "fajr": false,
-   "full": "part4/fayz-abd-al-salam.m4a",
+   "full": "fayz-abd-al-salam.m4a",
    "fullBytes": 712133,
-   "ios": "part4/fayz-abd-al-salam-30.caf",
+   "ios": "fayz-abd-al-salam-30.caf",
    "iosBytes": 351785
   },
   {
@@ -1734,9 +1734,9 @@
    "hint": "أذان كامل",
    "seconds": 148,
    "fajr": false,
-   "full": "part4/fawaz-farhan-al-dumane.m4a",
+   "full": "fawaz-farhan-al-dumane.m4a",
    "fullBytes": 1220136,
-   "ios": "part4/fawaz-farhan-al-dumane-30.caf",
+   "ios": "fawaz-farhan-al-dumane-30.caf",
    "iosBytes": 351793
   },
   {
@@ -1745,9 +1745,9 @@
    "hint": "أذان كامل",
    "seconds": 159,
    "fajr": false,
-   "full": "part4/kamal-muhammad-al-marush-1.m4a",
+   "full": "kamal-muhammad-al-marush-1.m4a",
    "fullBytes": 1310806,
-   "ios": "part4/kamal-muhammad-al-marush-1-30.caf",
+   "ios": "kamal-muhammad-al-marush-1-30.caf",
    "iosBytes": 355991
   },
   {
@@ -1756,9 +1756,9 @@
    "hint": "المغرب",
    "seconds": 140,
    "fajr": false,
-   "full": "part4/kamal-muhammad-al-marush-2-morocco.m4a",
+   "full": "kamal-muhammad-al-marush-2-morocco.m4a",
    "fullBytes": 1157028,
-   "ios": "part4/kamal-muhammad-al-marush-2-morocco-30.caf",
+   "ios": "kamal-muhammad-al-marush-2-morocco-30.caf",
    "iosBytes": 356570
   },
   {
@@ -1767,9 +1767,9 @@
    "hint": "أذان كامل",
    "seconds": 140,
    "fajr": false,
-   "full": "part4/lafi-al-awni.m4a",
+   "full": "lafi-al-awni.m4a",
    "fullBytes": 1144048,
-   "ios": "part4/lafi-al-awni-30.caf",
+   "ios": "lafi-al-awni-30.caf",
    "iosBytes": 351762
   },
   {
@@ -1778,9 +1778,9 @@
    "hint": "أذان كامل",
    "seconds": 173,
    "fajr": false,
-   "full": "part4/majid-al-zamel.m4a",
+   "full": "majid-al-zamel.m4a",
    "fullBytes": 1428057,
-   "ios": "part4/majid-al-zamel-30.caf",
+   "ios": "majid-al-zamel-30.caf",
    "iosBytes": 351738
   },
   {
@@ -1789,9 +1789,9 @@
    "hint": "أذان كامل",
    "seconds": 182,
    "fajr": false,
-   "full": "part4/muhammed-ibrahem-ismael-abd-allah.m4a",
+   "full": "muhammed-ibrahem-ismael-abd-allah.m4a",
    "fullBytes": 1496699,
-   "ios": "part4/muhammed-ibrahem-ismael-abd-allah-30.caf",
+   "ios": "muhammed-ibrahem-ismael-abd-allah-30.caf",
    "iosBytes": 351819
   },
   {
@@ -1800,9 +1800,9 @@
    "hint": "أذان كامل",
    "seconds": 158,
    "fajr": false,
-   "full": "part4/muhammad-abu-al-maqarem.m4a",
+   "full": "muhammad-abu-al-maqarem.m4a",
    "fullBytes": 1329688,
-   "ios": "part4/muhammad-abu-al-maqarem-30.caf",
+   "ios": "muhammad-abu-al-maqarem-30.caf",
    "iosBytes": 351554
   },
   {
@@ -1811,9 +1811,9 @@
    "hint": "أذان كامل",
    "seconds": 181,
    "fajr": false,
-   "full": "part4/muhammad-ashraf-aawad.m4a",
+   "full": "muhammad-ashraf-aawad.m4a",
    "fullBytes": 1485763,
-   "ios": "part4/muhammad-ashraf-aawad-30.caf",
+   "ios": "muhammad-ashraf-aawad-30.caf",
    "iosBytes": 351789
   },
   {
@@ -1822,9 +1822,9 @@
    "hint": "أذان كامل",
    "seconds": 176,
    "fajr": false,
-   "full": "part4/muhammad-al-damradash.m4a",
+   "full": "muhammad-al-damradash.m4a",
    "fullBytes": 1449301,
-   "ios": "part4/muhammad-al-damradash-30.caf",
+   "ios": "muhammad-al-damradash-30.caf",
    "iosBytes": 351786
   },
   {
@@ -1833,9 +1833,9 @@
    "hint": "أذان كامل",
    "seconds": 242,
    "fajr": false,
-   "full": "part4/muhammad-al-zahid.m4a",
+   "full": "muhammad-al-zahid.m4a",
    "fullBytes": 1934926,
-   "ios": "part4/muhammad-al-zahid-30.caf",
+   "ios": "muhammad-al-zahid-30.caf",
    "iosBytes": 351744
   },
   {
@@ -1844,9 +1844,9 @@
    "hint": "أذان كامل",
    "seconds": 189,
    "fajr": false,
-   "full": "part4/muhammad-al-saed-maher.m4a",
+   "full": "muhammad-al-saed-maher.m4a",
    "fullBytes": 1558833,
-   "ios": "part4/muhammad-al-saed-maher-30.caf",
+   "ios": "muhammad-al-saed-maher-30.caf",
    "iosBytes": 351732
   },
   {
@@ -1855,9 +1855,9 @@
    "hint": "أذان كامل",
    "seconds": 207,
    "fajr": false,
-   "full": "part4/muhammad-al-kurayne-al-maluke-1.m4a",
+   "full": "muhammad-al-kurayne-al-maluke-1.m4a",
    "fullBytes": 1705262,
-   "ios": "part4/muhammad-al-kurayne-al-maluke-1-30.caf",
+   "ios": "muhammad-al-kurayne-al-maluke-1-30.caf",
    "iosBytes": 351795
   },
   {
@@ -1866,9 +1866,9 @@
    "hint": "أذان كامل",
    "seconds": 209,
    "fajr": false,
-   "full": "part4/muhammad-al-kurayne-al-maluke-2.m4a",
+   "full": "muhammad-al-kurayne-al-maluke-2.m4a",
    "fullBytes": 1709333,
-   "ios": "part4/muhammad-al-kurayne-al-maluke-2-30.caf",
+   "ios": "muhammad-al-kurayne-al-maluke-2-30.caf",
    "iosBytes": 351788
   },
   {
@@ -1877,9 +1877,9 @@
    "hint": "أذان كامل",
    "seconds": 163,
    "fajr": false,
-   "full": "part4/muhammad-ben-mussa.m4a",
+   "full": "muhammad-ben-mussa.m4a",
    "fullBytes": 1343466,
-   "ios": "part4/muhammad-ben-mussa-30.caf",
+   "ios": "muhammad-ben-mussa-30.caf",
    "iosBytes": 351816
   },
   {
@@ -1888,9 +1888,9 @@
    "hint": "أذان كامل",
    "seconds": 159,
    "fajr": false,
-   "full": "part4/muhammad-hessen-al-shahawe.m4a",
+   "full": "muhammad-hessen-al-shahawe.m4a",
    "fullBytes": 1303401,
-   "ios": "part4/muhammad-hessen-al-shahawe-30.caf",
+   "ios": "muhammad-hessen-al-shahawe-30.caf",
    "iosBytes": 351789
   },
   {
@@ -1899,9 +1899,9 @@
    "hint": "أذان كامل",
    "seconds": 217,
    "fajr": false,
-   "full": "part4/muhammad-hamud.m4a",
+   "full": "muhammad-hamud.m4a",
    "fullBytes": 1788188,
-   "ios": "part4/muhammad-hamud-30.caf",
+   "ios": "muhammad-hamud-30.caf",
    "iosBytes": 351834
   },
   {
@@ -1910,9 +1910,9 @@
    "hint": "كولومبيا",
    "seconds": 174,
    "fajr": false,
-   "full": "part4/muhammad-hamud-colombia.m4a",
+   "full": "muhammad-hamud-colombia.m4a",
    "fullBytes": 1435626,
-   "ios": "part4/muhammad-hamud-colombia-30.caf",
+   "ios": "muhammad-hamud-colombia-30.caf",
    "iosBytes": 351914
   },
   {
@@ -1921,9 +1921,9 @@
    "hint": "الحرم المكي",
    "seconds": 192,
    "fajr": false,
-   "full": "part4/muhammad-khaleel-raml-al-haram-al-ma.m4a",
+   "full": "muhammad-khaleel-raml-al-haram-al-ma.m4a",
    "fullBytes": 1577126,
-   "ios": "part4/muhammad-khaleel-raml-al-haram-al-ma-30.caf",
+   "ios": "muhammad-khaleel-raml-al-haram-al-ma-30.caf",
    "iosBytes": 351589
   },
   {
@@ -1932,9 +1932,9 @@
    "hint": "القاهرة",
    "seconds": 204,
    "fajr": false,
-   "full": "part4/muhammad-refaat-cairo.m4a",
+   "full": "muhammad-refaat-cairo.m4a",
    "fullBytes": 1684458,
-   "ios": "part4/muhammad-refaat-cairo-30.caf",
+   "ios": "muhammad-refaat-cairo-30.caf",
    "iosBytes": 351791
   },
   {
@@ -1943,9 +1943,9 @@
    "hint": "الحرم المكي",
    "seconds": 220,
    "fajr": false,
-   "full": "part4/muhammad-ramadan-saad-al-haram-al-ma.m4a",
+   "full": "muhammad-ramadan-saad-al-haram-al-ma.m4a",
    "fullBytes": 1795213,
-   "ios": "part4/muhammad-ramadan-saad-al-haram-al-ma-30.caf",
+   "ios": "muhammad-ramadan-saad-al-haram-al-ma-30.caf",
    "iosBytes": 352169
   },
   {
@@ -1954,9 +1954,9 @@
    "hint": "أفغانستان",
    "seconds": 164,
    "fajr": false,
-   "full": "part4/mohamed-siddiq-el-minshawi-afghanist.m4a",
+   "full": "mohamed-siddiq-el-minshawi-afghanist.m4a",
    "fullBytes": 1345627,
-   "ios": "part4/mohamed-siddiq-el-minshawi-afghanist-30.caf",
+   "ios": "mohamed-siddiq-el-minshawi-afghanist-30.caf",
    "iosBytes": 351859
   },
   {
@@ -1965,9 +1965,9 @@
    "hint": "مصر",
    "seconds": 252,
    "fajr": false,
-   "full": "part4/mohamed-siddiq-el-minshawi-egypt-1.m4a",
+   "full": "mohamed-siddiq-el-minshawi-egypt-1.m4a",
    "fullBytes": 2033048,
-   "ios": "part4/mohamed-siddiq-el-minshawi-egypt-1-30.caf",
+   "ios": "mohamed-siddiq-el-minshawi-egypt-1-30.caf",
    "iosBytes": 351592
   },
   {
@@ -1976,9 +1976,9 @@
    "hint": "مصر",
    "seconds": 247,
    "fajr": false,
-   "full": "part4/mohamed-siddiq-el-minshawi-egypt-2.m4a",
+   "full": "mohamed-siddiq-el-minshawi-egypt-2.m4a",
    "fullBytes": 2036139,
-   "ios": "part4/mohamed-siddiq-el-minshawi-egypt-2-30.caf",
+   "ios": "mohamed-siddiq-el-minshawi-egypt-2-30.caf",
    "iosBytes": 351838
   },
   {
@@ -1987,9 +1987,9 @@
    "hint": "أذان كامل",
    "seconds": 194,
    "fajr": false,
-   "full": "part4/mohammed-salahuddin-kabbara-1.m4a",
+   "full": "mohammed-salahuddin-kabbara-1.m4a",
    "fullBytes": 1598011,
-   "ios": "part4/mohammed-salahuddin-kabbara-1-30.caf",
+   "ios": "mohammed-salahuddin-kabbara-1-30.caf",
    "iosBytes": 351792
   },
   {
@@ -1998,9 +1998,9 @@
    "hint": "أذان كامل",
    "seconds": 182,
    "fajr": false,
-   "full": "part4/mohammed-salahuddin-kabbara-2.m4a",
+   "full": "mohammed-salahuddin-kabbara-2.m4a",
    "fullBytes": 1516867,
-   "ios": "part4/mohammed-salahuddin-kabbara-2-30.caf",
+   "ios": "mohammed-salahuddin-kabbara-2-30.caf",
    "iosBytes": 351792
   },
   {
@@ -2009,9 +2009,9 @@
    "hint": "أذان كامل",
    "seconds": 150,
    "fajr": false,
-   "full": "part4/mohamed-tarek-reciting-azan.m4a",
+   "full": "mohamed-tarek-reciting-azan.m4a",
    "fullBytes": 1236672,
-   "ios": "part4/mohamed-tarek-reciting-azan-30.caf",
+   "ios": "mohamed-tarek-reciting-azan-30.caf",
    "iosBytes": 351554
   },
   {
@@ -2020,9 +2020,9 @@
    "hint": "أذان كامل",
    "seconds": 145,
    "fajr": false,
-   "full": "part4/muhammad-adel.m4a",
+   "full": "muhammad-adel.m4a",
    "fullBytes": 1196811,
-   "ios": "part4/muhammad-adel-30.caf",
+   "ios": "muhammad-adel-30.caf",
    "iosBytes": 351723
   },
   {
@@ -2031,9 +2031,9 @@
    "hint": "أذان كامل",
    "seconds": 171,
    "fajr": false,
-   "full": "part4/muhammad-abd-al-hakem.m4a",
+   "full": "muhammad-abd-al-hakem.m4a",
    "fullBytes": 1404498,
-   "ios": "part4/muhammad-abd-al-hakem-30.caf",
+   "ios": "muhammad-abd-al-hakem-30.caf",
    "iosBytes": 351797
   },
   {
@@ -2042,9 +2042,9 @@
    "hint": "أذان كامل",
    "seconds": 194,
    "fajr": false,
-   "full": "part4/muhammad-fathe-hantur.m4a",
+   "full": "muhammad-fathe-hantur.m4a",
    "fullBytes": 1599117,
-   "ios": "part4/muhammad-fathe-hantur-30.caf",
+   "ios": "muhammad-fathe-hantur-30.caf",
    "iosBytes": 351849
   },
   {
@@ -2053,9 +2053,9 @@
    "hint": "أذان كامل",
    "seconds": 106,
    "fajr": false,
-   "full": "part4/muhammad-najee-1.m4a",
+   "full": "muhammad-najee-1.m4a",
    "fullBytes": 870569,
-   "ios": "part4/muhammad-najee-1-30.caf",
+   "ios": "muhammad-najee-1-30.caf",
    "iosBytes": 351805
   },
   {
@@ -2064,9 +2064,9 @@
    "hint": "أذان كامل",
    "seconds": 147,
    "fajr": false,
-   "full": "part4/muhammad-najee-2.m4a",
+   "full": "muhammad-najee-2.m4a",
    "fullBytes": 1210989,
-   "ios": "part4/muhammad-najee-2-30.caf",
+   "ios": "muhammad-najee-2-30.caf",
    "iosBytes": 351796
   },
   {
@@ -2075,9 +2075,9 @@
    "hint": "أذان كامل",
    "seconds": 136,
    "fajr": false,
-   "full": "part4/muhammad-najee-3.m4a",
+   "full": "muhammad-najee-3.m4a",
    "fullBytes": 1122390,
-   "ios": "part4/muhammad-najee-3-30.caf",
+   "ios": "muhammad-najee-3-30.caf",
    "iosBytes": 351811
   },
   {
@@ -2086,9 +2086,9 @@
    "hint": "الأردن",
    "seconds": 80,
    "fajr": false,
-   "full": "part4/muhammad-nasser-al-dine-al-albane-jo.m4a",
+   "full": "muhammad-nasser-al-dine-al-albane-jo.m4a",
    "fullBytes": 659464,
-   "ios": "part4/muhammad-nasser-al-dine-al-albane-jo-30.caf",
+   "ios": "muhammad-nasser-al-dine-al-albane-jo-30.caf",
    "iosBytes": 351851
   },
   {
@@ -2097,9 +2097,9 @@
    "hint": "أذان كامل",
    "seconds": 331,
    "fajr": false,
-   "full": "part4/mahmud-al-tawakh-1.m4a",
+   "full": "mahmud-al-tawakh-1.m4a",
    "fullBytes": 2721830,
-   "ios": "part4/mahmud-al-tawakh-1-30.caf",
+   "ios": "mahmud-al-tawakh-1-30.caf",
    "iosBytes": 351758
   },
   {
@@ -2108,9 +2108,9 @@
    "hint": "مسجد الرفاعي القاهرة",
    "seconds": 198,
    "fajr": false,
-   "full": "part4/mahmud-al-tawakh-2-masjid-al-rifai-c.m4a",
+   "full": "mahmud-al-tawakh-2-masjid-al-rifai-c.m4a",
    "fullBytes": 1631605,
-   "ios": "part4/mahmud-al-tawakh-2-masjid-al-rifai-c-30.caf",
+   "ios": "mahmud-al-tawakh-2-masjid-al-rifai-c-30.caf",
    "iosBytes": 351993
   },
   {
@@ -2119,9 +2119,9 @@
    "hint": "أذان كامل",
    "seconds": 186,
    "fajr": false,
-   "full": "part5/mahmoud-al-fawazi.m4a",
+   "full": "mahmoud-al-fawazi.m4a",
    "fullBytes": 1395781,
-   "ios": "part5/mahmoud-al-fawazi-30.caf",
+   "ios": "mahmoud-al-fawazi-30.caf",
    "iosBytes": 357476
   },
   {
@@ -2130,9 +2130,9 @@
    "hint": "أذان كامل",
    "seconds": 214,
    "fajr": false,
-   "full": "part5/mahmoud-hijazi.m4a",
+   "full": "mahmoud-hijazi.m4a",
    "fullBytes": 1766333,
-   "ios": "part5/mahmoud-hijazi-30.caf",
+   "ios": "mahmoud-hijazi-30.caf",
    "iosBytes": 351794
   },
   {
@@ -2141,9 +2141,9 @@
    "hint": "القاهرة",
    "seconds": 128,
    "fajr": false,
-   "full": "part5/mahmoud-khalil-al-hussary-cairo.m4a",
+   "full": "mahmoud-khalil-al-hussary-cairo.m4a",
    "fullBytes": 1044345,
-   "ios": "part5/mahmoud-khalil-al-hussary-cairo-30.caf",
+   "ios": "mahmoud-khalil-al-hussary-cairo-30.caf",
    "iosBytes": 351799
   },
   {
@@ -2152,9 +2152,9 @@
    "hint": "القاهرة",
    "seconds": 166,
    "fajr": false,
-   "full": "part5/mahmoud-ali-al-banna-cairo.m4a",
+   "full": "mahmoud-ali-al-banna-cairo.m4a",
    "fullBytes": 1367975,
-   "ios": "part5/mahmoud-ali-al-banna-cairo-30.caf",
+   "ios": "mahmoud-ali-al-banna-cairo-30.caf",
    "iosBytes": 351793
   },
   {
@@ -2163,9 +2163,9 @@
    "hint": "أذان كامل",
    "seconds": 152,
    "fajr": false,
-   "full": "part5/mahmud-mustafa-al-najar.m4a",
+   "full": "mahmud-mustafa-al-najar.m4a",
    "fullBytes": 1248844,
-   "ios": "part5/mahmud-mustafa-al-najar-30.caf",
+   "ios": "mahmud-mustafa-al-najar-30.caf",
    "iosBytes": 351799
   },
   {
@@ -2174,9 +2174,9 @@
    "hint": "أذان كامل",
    "seconds": 187,
    "fajr": false,
-   "full": "part5/mukhtar-abelhamed-hafed.m4a",
+   "full": "mukhtar-abelhamed-hafed.m4a",
    "fullBytes": 1329905,
-   "ios": "part5/mukhtar-abelhamed-hafed-30.caf",
+   "ios": "mukhtar-abelhamed-hafed-30.caf",
    "iosBytes": 352003
   },
   {
@@ -2185,9 +2185,9 @@
    "hint": "جودة عالية",
    "seconds": 155,
    "fajr": false,
-   "full": "part5/mishary-al-afasy-hq.m4a",
+   "full": "mishary-al-afasy-hq.m4a",
    "fullBytes": 1275590,
-   "ios": "part5/mishary-al-afasy-hq-30.caf",
+   "ios": "mishary-al-afasy-hq-30.caf",
    "iosBytes": 351673
   },
   {
@@ -2196,9 +2196,9 @@
    "hint": "الكويت",
    "seconds": 241,
    "fajr": false,
-   "full": "part5/mishary-rashid-alafasy-1-kuwait.m4a",
+   "full": "mishary-rashid-alafasy-1-kuwait.m4a",
    "fullBytes": 1971110,
-   "ios": "part5/mishary-rashid-alafasy-1-kuwait-30.caf",
+   "ios": "mishary-rashid-alafasy-1-kuwait-30.caf",
    "iosBytes": 351824
   },
   {
@@ -2207,9 +2207,9 @@
    "hint": "الكويت",
    "seconds": 257,
    "fajr": false,
-   "full": "part5/mishary-rashid-alafasy-2-kuwait.m4a",
+   "full": "mishary-rashid-alafasy-2-kuwait.m4a",
    "fullBytes": 2116534,
-   "ios": "part5/mishary-rashid-alafasy-2-kuwait-30.caf",
+   "ios": "mishary-rashid-alafasy-2-kuwait-30.caf",
    "iosBytes": 351824
   },
   {
@@ -2218,9 +2218,9 @@
    "hint": "أذان الفجر · الكويت",
    "seconds": 187,
    "fajr": true,
-   "full": "part5/mishary-rashid-alafasy-3-fajr-kuwait.m4a",
+   "full": "mishary-rashid-alafasy-3-fajr-kuwait.m4a",
    "fullBytes": 1532737,
-   "ios": "part5/mishary-rashid-alafasy-3-fajr-kuwait-30.caf",
+   "ios": "mishary-rashid-alafasy-3-fajr-kuwait-30.caf",
    "iosBytes": 351857
   },
   {
@@ -2229,9 +2229,9 @@
    "hint": "أذان الفجر · الكويت",
    "seconds": 289,
    "fajr": true,
-   "full": "part5/mishary-rashid-alafasy-4-fajr-kuwait.m4a",
+   "full": "mishary-rashid-alafasy-4-fajr-kuwait.m4a",
    "fullBytes": 2371726,
-   "ios": "part5/mishary-rashid-alafasy-4-fajr-kuwait-30.caf",
+   "ios": "mishary-rashid-alafasy-4-fajr-kuwait-30.caf",
    "iosBytes": 351857
   },
   {
@@ -2240,9 +2240,9 @@
    "hint": "مصر",
    "seconds": 184,
    "fajr": false,
-   "full": "part5/mustafa-ismail-egypt.m4a",
+   "full": "mustafa-ismail-egypt.m4a",
    "fullBytes": 1517524,
-   "ios": "part5/mustafa-ismail-egypt-30.caf",
+   "ios": "mustafa-ismail-egypt-30.caf",
    "iosBytes": 351743
   },
   {
@@ -2251,9 +2251,9 @@
    "hint": "أذان كامل",
    "seconds": 259,
    "fajr": false,
-   "full": "part5/mustafa-waled.m4a",
+   "full": "mustafa-waled.m4a",
    "fullBytes": 2125660,
-   "ios": "part5/mustafa-waled-30.caf",
+   "ios": "mustafa-waled-30.caf",
    "iosBytes": 351818
   },
   {
@@ -2262,9 +2262,9 @@
    "hint": "قطر",
    "seconds": 228,
    "fajr": false,
-   "full": "part5/muad-al-qaseme-qatar.m4a",
+   "full": "muad-al-qaseme-qatar.m4a",
    "fullBytes": 1871005,
-   "ios": "part5/muad-al-qaseme-qatar-30.caf",
+   "ios": "muad-al-qaseme-qatar-30.caf",
    "iosBytes": 354852
   },
   {
@@ -2273,9 +2273,9 @@
    "hint": "أذان كامل",
    "seconds": 185,
    "fajr": false,
-   "full": "part5/mansur-al-zahrane.m4a",
+   "full": "mansur-al-zahrane.m4a",
    "fullBytes": 1504656,
-   "ios": "part5/mansur-al-zahrane-30.caf",
+   "ios": "mansur-al-zahrane-30.caf",
    "iosBytes": 351796
   },
   {
@@ -2284,9 +2284,9 @@
    "hint": "جودة عالية",
    "seconds": 190,
    "fajr": false,
-   "full": "part5/mansur-al-zahrane-hq.m4a",
+   "full": "mansur-al-zahrane-hq.m4a",
    "fullBytes": 1523875,
-   "ios": "part5/mansur-al-zahrane-hq-30.caf",
+   "ios": "mansur-al-zahrane-hq-30.caf",
    "iosBytes": 351673
   },
   {
@@ -2295,9 +2295,9 @@
    "hint": "أذان كامل",
    "seconds": 221,
    "fajr": false,
-   "full": "part5/mahde-al-bechee.m4a",
+   "full": "mahde-al-bechee.m4a",
    "fullBytes": 1825546,
-   "ios": "part5/mahde-al-bechee-30.caf",
+   "ios": "mahde-al-bechee-30.caf",
    "iosBytes": 351582
   },
   {
@@ -2306,9 +2306,9 @@
    "hint": "المسجد الأقصى القدس",
    "seconds": 226,
    "fajr": false,
-   "full": "part5/najee-qazaz-al-aqsa-jerusalem.m4a",
+   "full": "najee-qazaz-al-aqsa-jerusalem.m4a",
    "fullBytes": 1865284,
-   "ios": "part5/najee-qazaz-al-aqsa-jerusalem-30.caf",
+   "ios": "najee-qazaz-al-aqsa-jerusalem-30.caf",
    "iosBytes": 351592
   },
   {
@@ -2317,9 +2317,9 @@
    "hint": "أذان كامل",
    "seconds": 301,
    "fajr": false,
-   "full": "part5/nasser-al-obaid-1.m4a",
+   "full": "nasser-al-obaid-1.m4a",
    "fullBytes": 2477032,
-   "ios": "part5/nasser-al-obaid-1-30.caf",
+   "ios": "nasser-al-obaid-1-30.caf",
    "iosBytes": 351780
   },
   {
@@ -2328,9 +2328,9 @@
    "hint": "أذان كامل",
    "seconds": 162,
    "fajr": false,
-   "full": "part5/nasser-al-obaid-2.m4a",
+   "full": "nasser-al-obaid-2.m4a",
    "fullBytes": 1335253,
-   "ios": "part5/nasser-al-obaid-2-30.caf",
+   "ios": "nasser-al-obaid-2-30.caf",
    "iosBytes": 351871
   },
   {
@@ -2339,9 +2339,9 @@
    "hint": "أذان كامل",
    "seconds": 220,
    "fajr": false,
-   "full": "part5/nasser-al-obaid-3.m4a",
+   "full": "nasser-al-obaid-3.m4a",
    "fullBytes": 1806399,
-   "ios": "part5/nasser-al-obaid-3-30.caf",
+   "ios": "nasser-al-obaid-3-30.caf",
    "iosBytes": 351894
   },
   {
@@ -2350,9 +2350,9 @@
    "hint": "جودة عالية",
    "seconds": 132,
    "fajr": false,
-   "full": "part5/nasser-al-qatami-hq.m4a",
+   "full": "nasser-al-qatami-hq.m4a",
    "fullBytes": 1089334,
-   "ios": "part5/nasser-al-qatami-hq-30.caf",
+   "ios": "nasser-al-qatami-hq-30.caf",
    "iosBytes": 351673
   },
   {
@@ -2361,9 +2361,9 @@
    "hint": "المملكة العربية السعودية",
    "seconds": 132,
    "fajr": false,
-   "full": "part5/nasser-al-qatami-1-saudi-arabia.m4a",
+   "full": "nasser-al-qatami-1-saudi-arabia.m4a",
    "fullBytes": 1087710,
-   "ios": "part5/nasser-al-qatami-1-saudi-arabia-30.caf",
+   "ios": "nasser-al-qatami-1-saudi-arabia-30.caf",
    "iosBytes": 351858
   },
   {
@@ -2372,9 +2372,9 @@
    "hint": "الرياض",
    "seconds": 136,
    "fajr": false,
-   "full": "part5/nasser-al-qatami-2-riyadh.m4a",
+   "full": "nasser-al-qatami-2-riyadh.m4a",
    "fullBytes": 1116637,
-   "ios": "part5/nasser-al-qatami-2-riyadh-30.caf",
+   "ios": "nasser-al-qatami-2-riyadh-30.caf",
    "iosBytes": 351877
   },
   {
@@ -2383,9 +2383,9 @@
    "hint": "قطر",
    "seconds": 172,
    "fajr": false,
-   "full": "part5/nasser-al-abd-al-jabar-qatar.m4a",
+   "full": "nasser-al-abd-al-jabar-qatar.m4a",
    "fullBytes": 1415416,
-   "ios": "part5/nasser-al-abd-al-jabar-qatar-30.caf",
+   "ios": "nasser-al-abd-al-jabar-qatar-30.caf",
    "iosBytes": 352031
   },
   {
@@ -2394,9 +2394,9 @@
    "hint": "الحرم المكي",
    "seconds": 211,
    "fajr": false,
-   "full": "part5/nayf-fedah-al-haram-al-maki.m4a",
+   "full": "nayf-fedah-al-haram-al-maki.m4a",
    "fullBytes": 1718606,
-   "ios": "part5/nayf-fedah-al-haram-al-maki-30.caf",
+   "ios": "nayf-fedah-al-haram-al-maki-30.caf",
    "iosBytes": 351580
   },
   {
@@ -2405,9 +2405,9 @@
    "hint": "أذان كامل",
    "seconds": 265,
    "fajr": false,
-   "full": "part5/nasreddine-toubar.m4a",
+   "full": "nasreddine-toubar.m4a",
    "fullBytes": 2159662,
-   "ios": "part5/nasreddine-toubar-30.caf",
+   "ios": "nasreddine-toubar-30.caf",
    "iosBytes": 351722
   },
   {
@@ -2416,9 +2416,9 @@
    "hint": "المسجد الأقصى القدس",
    "seconds": 185,
    "fajr": false,
-   "full": "part5/nurdin-hamza-al-maghriby-al-aqsa-jer.m4a",
+   "full": "nurdin-hamza-al-maghriby-al-aqsa-jer.m4a",
    "fullBytes": 1513313,
-   "ios": "part5/nurdin-hamza-al-maghriby-al-aqsa-jer-30.caf",
+   "ios": "nurdin-hamza-al-maghriby-al-aqsa-jer-30.caf",
    "iosBytes": 351592
   },
   {
@@ -2427,9 +2427,9 @@
    "hint": "أذان كامل",
    "seconds": 130,
    "fajr": false,
-   "full": "part5/hecham-khalel.m4a",
+   "full": "hecham-khalel.m4a",
    "fullBytes": 1070472,
-   "ios": "part5/hecham-khalel-30.caf",
+   "ios": "hecham-khalel-30.caf",
    "iosBytes": 351782
   },
   {
@@ -2438,9 +2438,9 @@
    "hint": "أذان كامل",
    "seconds": 200,
    "fajr": false,
-   "full": "part5/wadi-hamad-al-yamani.m4a",
+   "full": "wadi-hamad-al-yamani.m4a",
    "fullBytes": 1640074,
-   "ios": "part5/wadi-hamad-al-yamani-30.caf",
+   "ios": "wadi-hamad-al-yamani-30.caf",
    "iosBytes": 351780
   },
   {
@@ -2449,9 +2449,9 @@
    "hint": "أذان كامل",
    "seconds": 200,
    "fajr": false,
-   "full": "part5/wadi-al-yamani.m4a",
+   "full": "wadi-al-yamani.m4a",
    "fullBytes": 1639685,
-   "ios": "part5/wadi-al-yamani-30.caf",
+   "ios": "wadi-al-yamani-30.caf",
    "iosBytes": 351744
   },
   {
@@ -2460,9 +2460,9 @@
    "hint": "أذان كامل",
    "seconds": 217,
    "fajr": false,
-   "full": "part5/waled-mahsas-1.m4a",
+   "full": "waled-mahsas-1.m4a",
    "fullBytes": 1789759,
-   "ios": "part5/waled-mahsas-1-30.caf",
+   "ios": "waled-mahsas-1-30.caf",
    "iosBytes": 351784
   },
   {
@@ -2471,9 +2471,9 @@
    "hint": "الجزائر",
    "seconds": 231,
    "fajr": false,
-   "full": "part5/waled-mahsas-2-algeria.m4a",
+   "full": "waled-mahsas-2-algeria.m4a",
    "fullBytes": 1905902,
-   "ios": "part5/waled-mahsas-2-algeria-30.caf",
+   "ios": "waled-mahsas-2-algeria-30.caf",
    "iosBytes": 351828
   },
   {
@@ -2482,9 +2482,9 @@
    "hint": "المملكة العربية السعودية",
    "seconds": 182,
    "fajr": false,
-   "full": "part5/yasser-al-dosari-saudi-arabia.m4a",
+   "full": "yasser-al-dosari-saudi-arabia.m4a",
    "fullBytes": 1500140,
-   "ios": "part5/yasser-al-dosari-saudi-arabia-30.caf",
+   "ios": "yasser-al-dosari-saudi-arabia-30.caf",
    "iosBytes": 351872
   },
   {
@@ -2493,9 +2493,9 @@
    "hint": "أذان كامل",
    "seconds": 215,
    "fajr": false,
-   "full": "part5/yasser-al-filkawi.m4a",
+   "full": "yasser-al-filkawi.m4a",
    "fullBytes": 1769742,
-   "ios": "part5/yasser-al-filkawi-30.caf",
+   "ios": "yasser-al-filkawi-30.caf",
    "iosBytes": 351673
   },
   {
@@ -2504,9 +2504,9 @@
    "hint": "قطر",
    "seconds": 162,
    "fajr": false,
-   "full": "part5/yasser-abdu-allah-al-hawre-qatar.m4a",
+   "full": "yasser-abdu-allah-al-hawre-qatar.m4a",
    "fullBytes": 1324363,
-   "ios": "part5/yasser-abdu-allah-al-hawre-qatar-30.caf",
+   "ios": "yasser-abdu-allah-al-hawre-qatar-30.caf",
    "iosBytes": 351878
   },
   {
@@ -2515,9 +2515,9 @@
    "hint": "أذان كامل",
    "seconds": 172,
    "fajr": false,
-   "full": "part5/yaseen-al-aassaf-1.m4a",
+   "full": "yaseen-al-aassaf-1.m4a",
    "fullBytes": 1420557,
-   "ios": "part5/yaseen-al-aassaf-1-30.caf",
+   "ios": "yaseen-al-aassaf-1-30.caf",
    "iosBytes": 351788
   },
   {
@@ -2526,9 +2526,9 @@
    "hint": "أذان الفجر · العراق",
    "seconds": 215,
    "fajr": true,
-   "full": "part5/yaseen-al-aassaf-2-fajr-iraq.m4a",
+   "full": "yaseen-al-aassaf-2-fajr-iraq.m4a",
    "fullBytes": 1775711,
-   "ios": "part5/yaseen-al-aassaf-2-fajr-iraq-30.caf",
+   "ios": "yaseen-al-aassaf-2-fajr-iraq-30.caf",
    "iosBytes": 351856
   }
  ]
